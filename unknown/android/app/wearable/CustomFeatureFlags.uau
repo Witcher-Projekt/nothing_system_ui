@@ -1,0 +1,6 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/app/wearable/CustomFeatureFlags;->enableDataRequestObserverApi()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/app/wearable/CustomFeatureFlags.java,21,5,21,25,
+Landroid/app/wearable/CustomFeatureFlags;->enableHotwordWearableSensingApi()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/app/wearable/CustomFeatureFlags.java,28,5,28,25,
+Landroid/app/wearable/CustomFeatureFlags;->enableProvideWearableConnectionApi()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/app/wearable/CustomFeatureFlags.java,35,5,35,25,
+Landroid/app/wearable/CustomFeatureFlags;->enableRestartWssProcess()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/app/wearable/CustomFeatureFlags.java,42,5,42,25,
+Landroid/app/wearable/CustomFeatureFlags;->enableUnsupportedOperationStatusCode()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/app/wearable/CustomFeatureFlags.java,49,5,49,25,

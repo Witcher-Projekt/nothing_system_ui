@@ -1,0 +1,11 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/service/autofill/Flags;->addLastFocusedIdToClientState()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/service/autofill/Flags.java,28,5,28,25,
+Landroid/service/autofill/Flags;->addSessionIdToClientState()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/service/autofill/Flags.java,34,5,34,25,
+Landroid/service/autofill/Flags;->autofillCredmanDevIntegration()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/service/autofill/Flags.java,40,5,40,25,
+Landroid/service/autofill/Flags;->autofillCredmanIntegration()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/service/autofill/Flags.java,46,5,46,25,
+Landroid/service/autofill/Flags;->autofillCredmanIntegrationPhase2()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/service/autofill/Flags.java,52,5,52,25,
+Landroid/service/autofill/Flags;->fillFieldsFromCurrentSessionOnly()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/service/autofill/Flags.java,58,5,58,25,
+Landroid/service/autofill/Flags;->includeInvisibleViewGroupInAssistStructure()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/service/autofill/Flags.java,64,5,64,25,
+Landroid/service/autofill/Flags;->relayout()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/service/autofill/Flags.java,70,5,70,25,
+Landroid/service/autofill/Flags;->remoteFillServiceUseWeakReference()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/service/autofill/Flags.java,76,5,76,25,
+Landroid/service/autofill/Flags;->test()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/service/autofill/Flags.java,82,5,82,25,

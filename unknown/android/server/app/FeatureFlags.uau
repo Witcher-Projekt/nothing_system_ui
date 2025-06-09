@@ -1,0 +1,3 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/server/app/FeatureFlags;->disableGameModeWhenAppTop()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/server/app/FeatureFlags.java,9,5,9,25,
+Landroid/server/app/FeatureFlags;->gameDefaultFrameRate()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/server/app/FeatureFlags.java,13,5,13,25,

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:androidprv="http://schemas.android.com/apk/prv/res/android">
+    <stroke android:width="1.0dip" android:color="@color/aod_widget_icon_state_on_color" />
+    <corners android:radius="@dimen/qs_widget_radius" />
+</shape>

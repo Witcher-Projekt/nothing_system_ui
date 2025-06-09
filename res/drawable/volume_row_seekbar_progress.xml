@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:autoMirrored="true"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:priv-android="http://schemas.android.com/apk/prv/res/android">
+    <item android:id="@id/slider_foreground" android:height="@dimen/volume_row_seekbar_default_height">
+        <shape
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <corners android:radius="100.0dip" />
+            <solid android:color="@color/volume_slider_color" />
+        </shape>
+    </item>
+</layer-list>

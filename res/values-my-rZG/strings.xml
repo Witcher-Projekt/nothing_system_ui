@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="amplifier_overheat">ဖုန္းအပူခ်ိန္လြန္ကဲမႈေၾကာင့္ ေဒတာဝန္ေဆာင္မႈကို ကန္႔သတ္ထားသည္။ ဖုန္းကို ေအးသြားေစရန္ ႀကိဳးစားပါ။</string>
+    <string name="change_setting_for_onenewsim">SIM ကတ္အသစ္ ရွာေဖြေတြ႕ရွိသည္။ ယင္းကို ဤသို႔ စာတန္းကပ္ထားသည္</string>
+    <string name="change_setting_for_twonewsim">SIM ကတ္အသစ္ ရွာေဖြေတြ႕ရွိသည္။ ယင္းတို႔ကို ဤသို႔ စာတန္းကပ္ထားသည္</string>
+    <string name="change_settings">ေျပာင္းပါ</string>
+    <string name="data_usage">အခ်က္အလက္ အသံုးခ်မႈ</string>
+    <string name="default_sim_setting_prompt">အခုအလိုအေလ်ာက္ SIM ဆက္တင္မ်ားမွာ -</string>
+    <string name="dismiss">ပယ္ခ်ပါ</string>
+    <string name="invalidPuk">ဂဏန္း ၈ လံုးထည့္ရန္</string>
+    <string name="invalid_sim_message">UIM/SIM ကတ္အား မမွတ္မိပါ</string>
+    <string name="invalid_sim_title">SIM ကတ္အသံုးမရွိ</string>
+    <string name="keyguard_close">ပိတ္ပါ</string>
+    <string name="keyguard_code_donnot_mismatch">မကိုက္ညီပါ။</string>
+    <string name="keyguard_code_length_prompt">၄-၈ လံုးျဖည့္သြင္းပါ။</string>
+    <string name="keyguard_data">ေဒတာခ်ိတ္ဆက္မႈ -</string>
+    <string name="keyguard_password_Confirm_pin_code">PIN အသစ္ကို အတည္ျပဳရန္</string>
+    <string name="keyguard_password_enter_new_pin_code">PIN အသစ္ကိုထည့္ရန္</string>
+    <string name="keyguard_sms">မက္ေဆ့ခ်္ပို႔ျခင္း -</string>
+    <string name="keyguard_wrong_code_input">ကုဒ္အမွား -</string>
+    <string name="kg_detecting_simcard">စူးစမ္းေနဆဲ…</string>
+    <string name="kg_emergency_call_label">အေရးေပၚေခၚဆိုမႈ</string>
+    <string name="kg_new_simcard">SIM ကတ္အသစ္</string>
+    <string name="kg_slot_id">"အေပါက္ %d: "</string>
+    <string name="lockscreen_missing_sim_dialog_message">SIM ကတ္မထည့္ရေသးပါ၊ သင့္ SIM ကတ္ေကာင္းမြန္စြာ ထည့္ထား မထား ေသခ်ာေအာင္ ျပဳလုပ္ပါ။</string>
+    <string name="mobile">ေဒတာ ခ်ိတ္ဆက္ျခင္း</string>
+    <string name="network_searching">ကြန္ရက္အသစ္ကို ရွာေဖြေနသည္</string>
+    <string name="new_simcard">SIM ကတ္အသစ္</string>
+    <string name="ppl_prompt">ေသာ့ဖြင့္ရန္ ကိုယ္ေရးကိုယ္တာ အခ်က္ကို ကာကြယ္ေပးေသာ စကားဝွက္ကို ထည့္ပါ။</string>
+    <string name="quick_settings_data_sim_notset">ေဒတာ SIM မသတ္မွတ္ထားပါ</string>
+    <string name="retries_left">က်န္သည့္အႀကိမ္- %d</string>
+    <string name="screen_pinning_description_physical_key">သင္ ျပန္ျဖဳတ္လိုက္သည့္တိုင္ေအာင္ ဤအရာသည္ ၎ကို ျမင္ကြင္းတြင္ ဆက္လက္ထားရွိမည္ျဖစ္သည္။ ျပန္ျဖဳတ္ရန္ ေနာက္သို႔ ခလုတ္ကို ထိကိုင္ပါ။</string>
+    <string name="sd_accessing_swtich_user_message">ပိုင္ဆိုင္သူအေကာင့္မွ မသိမ္းထားေသာ ေဒတာအားလံုးသည္ ဆံုး႐ံႈး (သို႔) ပ်က္စီးလိမ့္မည္။</string>
+    <string name="sd_accessing_swtich_user_title">သံုးသူေျပာင္းမလား။</string>
+    <string name="searching_simcard">ရွာေဖြေနသည္ …</string>
+    <string name="sim_card_changed_dialog_title">SIM ကတ္ေျပာင္းၿပီး</string>
+    <string name="sim_card_removed">SIM ကတ္ဖယ္ရွားၿပီး။</string>
+    <string name="sim_card_swapped">SIM ကတ္လဲၿပီး။</string>
+    <string name="sim_permanently_locked">မမွန္ေသာ PUK ကုဒ္ကို ၁၀ ႀကိမ္ထက္ ပိုထည့္မႈပါက SIM ကတ္ကိုအျမဲတမ္း ေသာ့ပိတ္သြား ေစႏိုင္သည္။</string>
+    <string name="simlock_entersimmelock">SIM ME ေသာ့ခတ္ျခင္း ထည့္သြင္းပါ</string>
+    <string name="simlock_slot_locked_message">အေပါက္ကိုအျမဲတမ္း ေသာ့ခ်ထားသည္။</string>
+    <string name="slot_id">ကတ္အထိုင္ %d-</string>
+    <string name="wfd_sink_summary">အျခားသူမ်ားမွရွာေဖြေတြ႕ရွိႏိုင္သည္</string>
+    <string name="wifi_security_wapi_certificate">WAPI အေထာက္အထား</string>
+</resources>

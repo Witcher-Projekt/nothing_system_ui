@@ -1,0 +1,4 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/database/sqlite/FeatureFlags;->simpleSqlCommentScanner()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/database/sqlite/FeatureFlags.java,9,5,9,25,
+Landroid/database/sqlite/FeatureFlags;->sqliteAllowTempTables()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/database/sqlite/FeatureFlags.java,13,5,13,25,
+Landroid/database/sqlite/FeatureFlags;->sqliteApis35()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/database/sqlite/FeatureFlags.java,17,5,17,25,

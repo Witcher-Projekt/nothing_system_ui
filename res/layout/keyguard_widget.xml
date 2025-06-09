@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.nothing.systemui.widget.NTWidgetContainer android:gravity="center" android:id="@id/nt_widget_host_view_container" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.nothing.systemui.widget.NTWidgetViewContainer android:orientation="horizontal" android:id="@id/nt_keyguard_widget_host_container" android:tag="keyguard" android:visibility="visible" android:layout_width="@dimen/widget_container_width" android:layout_height="wrap_content">
+        <com.nothing.systemui.widget.CellLayout android:id="@id/nt_cell_layout" android:layout_width="@dimen/widget_container_width" android:layout_height="@dimen/widget_container_height" />
+    </com.nothing.systemui.widget.NTWidgetViewContainer>
+</com.nothing.systemui.widget.NTWidgetContainer>

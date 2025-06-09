@@ -1,0 +1,8 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/media/audiopolicy/Flags;->audioMixOwnership()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/media/audiopolicy/Flags.java,22,5,22,25,
+Landroid/media/audiopolicy/Flags;->audioMixPolicyOrdering()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/media/audiopolicy/Flags.java,28,5,28,25,
+Landroid/media/audiopolicy/Flags;->audioMixTestApi()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/media/audiopolicy/Flags.java,34,5,34,25,
+Landroid/media/audiopolicy/Flags;->audioPolicyUpdateMixingRulesApi()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/media/audiopolicy/Flags.java,40,5,40,25,
+Landroid/media/audiopolicy/Flags;->enableFadeManagerConfiguration()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/media/audiopolicy/Flags.java,46,5,46,25,
+Landroid/media/audiopolicy/Flags;->multiZoneAudio()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/media/audiopolicy/Flags.java,52,5,52,25,
+Landroid/media/audiopolicy/Flags;->recordAudioDeviceAwarePermission()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/media/audiopolicy/Flags.java,58,5,58,25,

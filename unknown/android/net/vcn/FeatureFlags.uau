@@ -1,0 +1,9 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/net/vcn/FeatureFlags;->allowDisableIpsecLossDetector()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/net/vcn/FeatureFlags.java,9,5,9,25,
+Landroid/net/vcn/FeatureFlags;->enforceMainUser()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/net/vcn/FeatureFlags.java,13,5,13,25,
+Landroid/net/vcn/FeatureFlags;->evaluateIpsecLossOnLpNcChange()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/net/vcn/FeatureFlags.java,17,5,17,25,
+Landroid/net/vcn/FeatureFlags;->handleSeqNumLeap()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/net/vcn/FeatureFlags.java,21,5,21,25,
+Landroid/net/vcn/FeatureFlags;->networkMetricMonitor()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/net/vcn/FeatureFlags.java,25,5,25,25,
+Landroid/net/vcn/FeatureFlags;->safeModeConfig()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/net/vcn/FeatureFlags.java,29,5,29,25,
+Landroid/net/vcn/FeatureFlags;->safeModeTimeoutConfig()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/net/vcn/FeatureFlags.java,33,5,33,25,
+Landroid/net/vcn/FeatureFlags;->validateNetworkOnIpsecLoss()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/net/vcn/FeatureFlags.java,37,5,37,25,

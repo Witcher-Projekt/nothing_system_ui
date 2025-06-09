@@ -1,0 +1,3 @@
+signature,file,startline,startcol,endline,endcol,properties
+Lcom/android/server/power/feature/flags/Flags;->enableEarlyScreenTimeoutDetector()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/server/power/feature/flags/Flags.java,12,5,12,25,
+Lcom/android/server/power/feature/flags/Flags;->improveWakelockLatency()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/server/power/feature/flags/Flags.java,18,5,18,25,

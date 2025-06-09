@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nt_qs_panel_qqs_to_qs_translation_y">0.0dip</dimen>
+    <dimen name="present_container_height">303.7578dip</dimen>
+    <dimen name="qs_panel_padding_top">0.0dip</dimen>
+</resources>

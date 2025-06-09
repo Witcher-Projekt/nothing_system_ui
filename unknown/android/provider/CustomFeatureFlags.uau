@@ -1,0 +1,5 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/provider/CustomFeatureFlags;->a11yStandaloneGestureEnabled()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/provider/CustomFeatureFlags.java,21,5,21,25,
+Landroid/provider/CustomFeatureFlags;->backupTasksSettingsScreen()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/provider/CustomFeatureFlags.java,28,5,28,25,
+Landroid/provider/CustomFeatureFlags;->systemSettingsDefault()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/provider/CustomFeatureFlags.java,35,5,35,25,
+Landroid/provider/CustomFeatureFlags;->userKeys()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/provider/CustomFeatureFlags.java,42,5,42,25,

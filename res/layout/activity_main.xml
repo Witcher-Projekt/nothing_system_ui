@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:background="@color/material_dynamic_neutral0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:launcher="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/presentation" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.android.launcher3.dragndrop.DragLayer android:gravity="center_horizontal" android:id="@id/drag_layer" android:visibility="visible" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:importantForAccessibility="no">
+            <FrameLayout android:layout_width="fill_parent" android:layout_height="@dimen/present_container_height">
+                <com.android.launcher3.Workspace android:layout_gravity="center" android:id="@id/workspace" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent" launcher:pageIndicator="@id/page_indicator" />
+                <include android:id="@id/page_indicator" layout="@layout/page_indicator" />
+            </FrameLayout>
+        </com.android.launcher3.dragndrop.DragLayer>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

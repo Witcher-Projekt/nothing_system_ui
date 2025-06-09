@@ -1,0 +1,6 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/tracing/FeatureFlagsImpl;->perfettoIme()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/tracing/FeatureFlagsImpl.java,8,5,8,25,
+Landroid/tracing/FeatureFlagsImpl;->perfettoImeTracing()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/tracing/FeatureFlagsImpl.java,15,5,15,25,
+Landroid/tracing/FeatureFlagsImpl;->perfettoProtologTracing()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/tracing/FeatureFlagsImpl.java,22,5,22,25,
+Landroid/tracing/FeatureFlagsImpl;->perfettoTransitionTracing()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/tracing/FeatureFlagsImpl.java,29,5,29,25,
+Landroid/tracing/FeatureFlagsImpl;->perfettoViewCaptureTracing()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/tracing/FeatureFlagsImpl.java,36,5,36,25,

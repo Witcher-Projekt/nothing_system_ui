@@ -1,0 +1,5 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/crashrecovery/flags/Flags;->allowRescuePartyFlagResets()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/crashrecovery/flags/Flags.java,16,5,16,25,
+Landroid/crashrecovery/flags/Flags;->enableCrashrecovery()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/crashrecovery/flags/Flags.java,22,5,22,25,
+Landroid/crashrecovery/flags/Flags;->recoverabilityDetection()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/crashrecovery/flags/Flags.java,28,5,28,25,
+Landroid/crashrecovery/flags/Flags;->reenableSettingsResets()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/crashrecovery/flags/Flags.java,34,5,34,25,

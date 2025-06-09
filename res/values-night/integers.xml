@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="outline_color_alpha">26</integer>
+    <integer name="qs_edit_panel_background_alpha">153</integer>
+    <integer name="qs_edit_panel_item_frame_background_alpha">255</integer>
+</resources>

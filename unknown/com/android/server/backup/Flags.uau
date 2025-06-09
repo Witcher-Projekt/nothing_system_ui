@@ -1,0 +1,8 @@
+signature,file,startline,startcol,endline,endcol,properties
+Lcom/android/server/backup/Flags;->enableClearPipeAfterRestoreFile()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/server/backup/Flags.java,22,5,22,25,
+Lcom/android/server/backup/Flags;->enableIncreaseDatatypesForAgentLogging()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/server/backup/Flags.java,28,5,28,25,
+Lcom/android/server/backup/Flags;->enableIncreasedBmmLoggingForRestoreAtInstall()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/server/backup/Flags.java,34,5,34,25,
+Lcom/android/server/backup/Flags;->enableMaxSizeWritesToPipes()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/server/backup/Flags.java,40,5,40,25,
+Lcom/android/server/backup/Flags;->enableMetricsSystemBackupAgents()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/server/backup/Flags.java,46,5,46,25,
+Lcom/android/server/backup/Flags;->enableSkippingRestoreLaunchedApps()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/server/backup/Flags.java,52,5,52,25,
+Lcom/android/server/backup/Flags;->enableVToURestoreForSystemComponentsInAllowlist()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/server/backup/Flags.java,58,5,58,25,

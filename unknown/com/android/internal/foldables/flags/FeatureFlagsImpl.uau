@@ -1,0 +1,3 @@
+signature,file,startline,startcol,endline,endcol,properties
+Lcom/android/internal/foldables/flags/FeatureFlagsImpl;->foldGracePeriodEnabled()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/internal/foldables/flags/FeatureFlagsImpl.java,8,5,8,25,
+Lcom/android/internal/foldables/flags/FeatureFlagsImpl;->foldLockSettingEnabled()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/internal/foldables/flags/FeatureFlagsImpl.java,15,5,15,25,

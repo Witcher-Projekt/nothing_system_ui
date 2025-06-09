@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="amplifier_overheat">Տվյալների ծառայությունը հասանելի չէ հեռախոսի գերտաքացման պատճառով: Խնդրում ենք փորձել հովացնել հեռախոսը:</string>
+    <string name="change_setting_for_onenewsim">Հայտնաբերվել է նոր SIM քարտ: Այն պիտակավորված է որպես</string>
+    <string name="change_setting_for_twonewsim">Հայտնաբերվել են նոր SIM քարտեր: Նրանք պիտակավորված են որպես</string>
+    <string name="change_settings">Փոխել</string>
+    <string name="data_usage">Տվյալների օգտագործում</string>
+    <string name="default_sim_setting_prompt">Այժմ սկզբնադիր կարգավորումները հետևյալն են՝</string>
+    <string name="dismiss">Անտեսել</string>
+    <string name="invalidPuk">Մուտքագրեք 8 թիվ:</string>
+    <string name="invalid_sim_message">UIM/SIM քարտը չի ճանաչվել:</string>
+    <string name="invalid_sim_title">Անվավեր SIM քարտ</string>
+    <string name="keyguard_close">Փակել</string>
+    <string name="keyguard_code_donnot_mismatch">Չի համընկնում</string>
+    <string name="keyguard_code_length_prompt">Մուտքագրեք 4-8 թիվ:</string>
+    <string name="keyguard_data">Տվյալների կապակցում՝</string>
+    <string name="keyguard_password_Confirm_pin_code">Հաստատեք նոր PIN-ը</string>
+    <string name="keyguard_password_enter_new_pin_code">Մուտքագրեք նոր PIN կոդը</string>
+    <string name="keyguard_sms">Հաղորդագրում՝</string>
+    <string name="keyguard_wrong_code_input">Սխալ կոդ:</string>
+    <string name="kg_detecting_simcard">Հայտնաբերվումէ...</string>
+    <string name="kg_emergency_call_label">Արտակարգիրավիճակիկանչ</string>
+    <string name="kg_new_simcard">Նոր SIM քարտ</string>
+    <string name="kg_slot_id">"Բնիկ %d՝ "</string>
+    <string name="lockscreen_missing_sim_dialog_message">SIM քարտն անջատված է: Խնդրում ենք ստուգել, ճիշտ է, արդյոք, տեղադրված ձեր SIM քարտը:</string>
+    <string name="mobile">Տվյալների կապակցում</string>
+    <string name="network_searching">Որոնվում է նոր ցանց</string>
+    <string name="new_simcard">Նոր SIM քարտ</string>
+    <string name="ppl_prompt">Խնդրում ենք ներմուծել Գաղտնիության պաշտպանության գաղտնաբառը` ապակողպելու համար:</string>
+    <string name="quick_settings_data_sim_notset">Տվյալների SIM-ը նախադրված չէ</string>
+    <string name="retries_left">Մնացել է՝%d</string>
+    <string name="screen_pinning_description_physical_key">Այն պահում է տեսադաշտում` նախքան կհանեք այն ամրացումից: Ամրացումից հանելու համար հպեք և պահեք «Ետ» ստեղնը:</string>
+    <string name="sd_accessing_swtich_user_message">Սեփականատիրոջ հաշվի բոլոր չպահված տվյալները ջնջվելու կամ վնասվելու են:</string>
+    <string name="sd_accessing_swtich_user_title">Փոխե՞լ օգտվողին:</string>
+    <string name="searching_simcard">Հայտնաբերվում է...</string>
+    <string name="sim_card_changed_dialog_title">SIM քարտը փոխվել է</string>
+    <string name="sim_card_removed">SIM քարտը հեռացվեց:</string>
+    <string name="sim_card_swapped">SIM քարտը փոխվեց:</string>
+    <string name="sim_permanently_locked">Ավելի քան 10 անգամ մուտքագրվել է սխալ PUK կոդ: SIM քարտը մշտապես արգելափակվել է:</string>
+    <string name="simlock_entersimmelock">Մուտքագրեք SIM ME կողպման կոդը</string>
+    <string name="simlock_slot_locked_message">Փորակը մշտապես կողպվել է</string>
+    <string name="slot_id">Փորակ %d՝</string>
+    <string name="wfd_sink_summary">Հայտնաբերելիուրիշներիկողմից</string>
+    <string name="wifi_security_wapi_certificate">WAPI վկայագիր</string>
+</resources>

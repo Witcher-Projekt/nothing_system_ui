@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/settings_panel_title_margin" android:layout_marginStart="@dimen/settings_panel_title_margin" android:layout_marginEnd="@dimen/settings_panel_title_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="top" android:orientation="vertical" android:id="@id/remote_view_root" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <LinearLayout android:orientation="vertical" android:id="@id/lay_view" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include android:id="@id/headed_divider" android:visibility="gone" layout="@layout/horizontal_divider" />
+        <com.nothing.systemui.qs.tiles.settings.panel.RowView android:gravity="center_vertical" android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/row_view" android:background="?android:selectableItemBackground" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="28.0dip">
+            <FrameLayout android:gravity="center" android:id="@id/nt_icon_title_layout" android:background="@null" android:layout_width="@dimen/nt_panel_icon_title_height_medium" android:layout_height="@dimen/nt_panel_icon_title_height_medium" android:layout_marginEnd="15.0dip">
+                <ImageView android:layout_gravity="center" android:id="@id/icon_title" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" />
+            </FrameLayout>
+            <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/content" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <TextView android:textSize="14.0sp" android:textColor="?android:textColorPrimary" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:fontFamily="google-sans-medium" />
+                <TextView android:textSize="13.0sp" android:textColor="?android:textColorSecondary" android:ellipsize="end" android:id="@id/summary" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:fontFamily="google-sans-medium" />
+            </LinearLayout>
+            <ImageView android:id="@id/arrow_forward" android:visibility="gone" android:layout_width="12.0dip" android:layout_height="12.0dip" android:src="@drawable/nt_forward_arrow" android:layout_marginEnd="24.419983dip" />
+            <View android:id="@id/divider" android:background="?android:listDivider" android:visibility="gone" android:layout_width="1.0dip" android:layout_height="24.0dip" android:layout_marginEnd="20.0dip" />
+            <Switch android:id="@id/switch_widget" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:thumb="@drawable/switch_custom_thumb_selector" android:track="@drawable/switch_custom_track_selector" android:switchMinWidth="56.0dip" />
+            <ImageView android:id="@id/icon_action" android:background="?android:selectableItemBackground" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:tint="?android:colorAccent" />
+            <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/expand_bluetooth_icon_container" android:visibility="gone" android:layout_width="48.0dip" android:layout_height="48.0dip">
+                <ImageView android:layout_gravity="end" android:id="@id/expand_bluetooth_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/nt_ic_arrow_up" android:scaleType="center" />
+            </LinearLayout>
+        </com.nothing.systemui.qs.tiles.settings.panel.RowView>
+    </LinearLayout>
+</LinearLayout>

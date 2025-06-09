@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.nothing.systemui.qs.customize.NTCustomizeTileView android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.nothing.systemui.qs.customize.NTCustomizeTileViewFrame android:id="@id/icon_frame" android:layout_width="72.0dip" android:layout_height="72.0dip" android:layout_marginTop="11.0dip" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <ImageView android:layout_gravity="center" android:id="@id/icon" android:layout_width="@dimen/qs_icon_size" android:layout_height="@dimen/qs_icon_size" />
+    </com.nothing.systemui.qs.customize.NTCustomizeTileViewFrame>
+    <ImageView android:id="@id/iv_app" android:visibility="gone" android:layout_width="24.0dip" android:layout_height="24.0dip" app:layout_constraintCircle="@id/icon_frame" app:layout_constraintCircleAngle="135.0" app:layout_constraintCircleRadius="40.241974dip" />
+    <TextView android:textSize="14.0sp" android:textColor="@color/qs_edit_panel_tile_item_label" android:ellipsize="end" android:gravity="center_horizontal" android:id="@id/tv_label" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginTop="11.0dip" android:lines="2" android:layout_marginHorizontal="8.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/icon_frame" />
+</com.nothing.systemui.qs.customize.NTCustomizeTileView>

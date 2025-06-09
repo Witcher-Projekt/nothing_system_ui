@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:insetLeft="@dimen/icon_between_wifi_and_signal_inset_left" android:insetRight="@dimen/icon_between_wifi_and_signal_inset_right"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <vector android:height="16.0dip" android:width="16.0dip" android:viewportWidth="16.0" android:viewportHeight="16.0"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <path android:fillColor="#ffffffff" android:pathData="M0,3C0,1.895 0.895,1 2,1H14C15.105,1 16,1.895 16,3V13C16,14.105 15.105,15 14,15H2C0.895,15 0,14.105 0,13V3ZM2.26,12.294H4.126V13H1.381V8.734H2.26V12.294ZM7.24,9.446H5.934V13H5.055V9.446H3.766V8.734H7.24V9.446ZM10.311,11.151H8.623V12.294H10.604V13H7.744V8.734H10.598V9.446H8.623V10.463H10.311V11.151ZM3.924,2.734L2.957,5.942L1.996,2.734H1.021L2.5,7H3.417L4.902,2.734H3.924ZM5.166,4.545C5.045,4.791 4.984,5.071 4.984,5.386V5.424C4.984,5.928 5.12,6.326 5.392,6.619C5.665,6.912 6.03,7.059 6.487,7.059C6.944,7.059 7.309,6.912 7.58,6.619C7.852,6.324 7.987,5.934 7.987,5.447L7.981,5.23C7.95,4.781 7.799,4.426 7.527,4.164C7.258,3.902 6.909,3.771 6.481,3.771C6.181,3.771 5.916,3.839 5.688,3.974C5.461,4.108 5.287,4.299 5.166,4.545ZM6.001,6.139C5.888,5.979 5.831,5.748 5.831,5.447C5.831,5.109 5.888,4.86 6.001,4.7C6.114,4.538 6.274,4.457 6.481,4.457C6.69,4.457 6.853,4.538 6.968,4.7C7.083,4.862 7.141,5.091 7.141,5.386C7.141,5.731 7.083,5.983 6.968,6.142C6.853,6.298 6.692,6.376 6.487,6.376C6.276,6.376 6.114,6.297 6.001,6.139Z" android:fillType="evenOdd" />
+    </vector>
+</inset>

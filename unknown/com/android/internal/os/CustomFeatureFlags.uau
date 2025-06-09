@@ -1,0 +1,2 @@
+signature,file,startline,startcol,endline,endcol,properties
+Lcom/android/internal/os/CustomFeatureFlags;->enableApacheHttpLegacyPreload()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/internal/os/CustomFeatureFlags.java,21,5,21,25,

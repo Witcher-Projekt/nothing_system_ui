@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="80.0dip" android:width="80.0dip" android:viewportWidth="80.0" android:viewportHeight="80.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <clip-path android:pathData="M28,28h24v24h-24z" />
+        <path android:fillColor="@color/bluetooth_page_nothing_default_connect_drawable" android:pathData="M40,51V49H47V48H43V40H47V39C47,37.067 46.317,35.417 44.95,34.05C43.583,32.683 41.933,32 40,32C38.067,32 36.417,32.683 35.05,34.05C33.683,35.417 33,37.067 33,39V40H37V48H33C32.45,48 31.979,47.804 31.587,47.412C31.196,47.021 31,46.55 31,46V39C31,37.767 31.237,36.604 31.712,35.513C32.188,34.421 32.833,33.467 33.65,32.65C34.467,31.833 35.421,31.188 36.513,30.712C37.604,30.237 38.767,30 40,30C41.233,30 42.396,30.237 43.487,30.712C44.579,31.188 45.533,31.833 46.35,32.65C47.167,33.467 47.813,34.421 48.287,35.513C48.763,36.604 49,37.767 49,39V49C49,49.55 48.804,50.021 48.412,50.412C48.021,50.804 47.55,51 47,51H40ZM33,46H35V42H33V46ZM45,46H47V42H45V46Z" />
+    </group>
+</vector>

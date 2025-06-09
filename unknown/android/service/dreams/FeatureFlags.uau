@@ -1,0 +1,6 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/service/dreams/FeatureFlags;->dismissDreamOnKeyguardDismiss()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/service/dreams/FeatureFlags.java,9,5,9,25,
+Landroid/service/dreams/FeatureFlags;->dreamHandlesBeingObscured()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/service/dreams/FeatureFlags.java,13,5,13,25,
+Landroid/service/dreams/FeatureFlags;->dreamHandlesConfirmKeys()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/service/dreams/FeatureFlags.java,17,5,17,25,
+Landroid/service/dreams/FeatureFlags;->dreamOverlayHost()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/service/dreams/FeatureFlags.java,21,5,21,25,
+Landroid/service/dreams/FeatureFlags;->dreamWakeRedirect()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/service/dreams/FeatureFlags.java,25,5,25,25,

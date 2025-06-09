@@ -1,0 +1,2 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/app/ondeviceintelligence/flags/FeatureFlags;->enableOnDeviceIntelligence()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/app/ondeviceintelligence/flags/FeatureFlags.java,9,5,9,25,

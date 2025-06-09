@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="change_setting_for_onenewsim">SIM kad baru dikesan. Tetapan SIM lalai kini adalah:</string>
+    <string name="change_setting_for_twonewsim">SIM kad baru dikesan. Tetapan SIM lalai kini adalah:</string>
+    <string name="change_settings">Ubah</string>
+    <string name="default_sim_setting_prompt">Tetapan SIM lalai kini adalah:</string>
+    <string name="dismiss">Buang</string>
+    <string name="invalidPuk">8 digit input.</string>
+    <string name="invalid_sim_message">Kad UIM/SIM tidak dikenali</string>
+    <string name="invalid_sim_title">Kad SIM tidak sah</string>
+    <string name="keyguard_close">Tutup</string>
+    <string name="keyguard_code_donnot_mismatch">Tidak Sepadan.</string>
+    <string name="keyguard_code_length_prompt">4-8 digit input.</string>
+    <string name="keyguard_data">Sambungan data:</string>
+    <string name="keyguard_password_Confirm_pin_code">Sahkan PIN baru</string>
+    <string name="keyguard_password_enter_new_pin_code">Masukan PIN Baru</string>
+    <string name="keyguard_sms">SMS:</string>
+    <string name="keyguard_wrong_code_input">Kod salah.</string>
+    <string name="lockscreen_missing_sim_dialog_message">Kad SIM telah ditanggalkan. Sila pastikan bahawa kad SIM anda dimasukkan dengan betul.</string>
+    <string name="network_searching">Mencari rangkaian baru</string>
+    <string name="new_simcard">Kad SIM baru</string>
+    <string name="ppl_prompt">Sila masukkan kata laluan Perlindungan Privasi untuk membuka kunci.</string>
+    <string name="retries_left">Kekalkan:%d</string>
+    <string name="sd_accessing_swtich_user_message">Semua data dalam akaun pemilik yang belum disimpan akan hilang atau rosak.</string>
+    <string name="sd_accessing_swtich_user_title">Tukar pengguna?</string>
+    <string name="searching_simcard">Detecting...</string>
+    <string name="sim_card_changed_dialog_title">Kad SIM diubah</string>
+    <string name="sim_card_removed">Kad SIM dikeluarkan.</string>
+    <string name="sim_card_swapped">Kad SIM ditukarkan.</string>
+    <string name="sim_permanently_locked">Memasukkan kod PUK yang salah lebih daripada 10 kali, kad SIM telah dikunci secara kekal.</string>
+    <string name="simlock_entersimmelock">Masukkan kunci SIM ME</string>
+    <string name="simlock_slot_locked_message">Slot telah dikunci secara kekal.</string>
+    <string name="slot_id">Slot %d:</string>
+</resources>

@@ -1,0 +1,4 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/net/platform/flags/Flags;->ipsecTransformState()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/net/platform/flags/Flags.java,14,5,14,25,
+Landroid/net/platform/flags/Flags;->poweredOffFindingPlatform()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/net/platform/flags/Flags.java,20,5,20,25,
+Landroid/net/platform/flags/Flags;->registerNsdOffloadEngine()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/net/platform/flags/Flags.java,26,5,26,25,

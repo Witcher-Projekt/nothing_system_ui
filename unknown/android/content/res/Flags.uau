@@ -1,0 +1,7 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/content/res/Flags;->assetFileDescriptorFrro()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/content/res/Flags.java,20,5,20,25,
+Landroid/content/res/Flags;->defaultLocale()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/content/res/Flags.java,26,5,26,25,
+Landroid/content/res/Flags;->fontScaleConverterPublic()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/content/res/Flags.java,32,5,32,25,
+Landroid/content/res/Flags;->manifestFlagging()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/content/res/Flags.java,38,5,38,25,
+Landroid/content/res/Flags;->ninePatchFrro()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/content/res/Flags.java,44,5,44,25,
+Landroid/content/res/Flags;->registerResourcePaths()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/content/res/Flags.java,50,5,50,25,

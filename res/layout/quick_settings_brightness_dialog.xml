@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.settings.brightness.BrightnessSliderView android:layout_gravity="center" android:id="@id/brightness_slider" android:layout_width="fill_parent" android:layout_height="@dimen/brightness_mirror_height" android:contentDescription="@string/accessibility_brightness" android:importantForAccessibility="no" android:paddingHorizontal="@dimen/qs_brightness_slider_side_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.systemui.settings.brightness.ToggleSeekBar android:layout_gravity="center_vertical" android:id="@id/slider" android:background="@null" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:progressDrawable="@drawable/brightness_progress_drawable" android:minHeight="56.0dip" android:thumb="@null" android:paddingStart="0.0dip" android:paddingEnd="0.0dip" android:splitTrack="false" />
+    <View android:layout_gravity="start|center" android:id="@id/autoBrightness" android:background="#00000000" android:clickable="true" android:layout_width="@dimen/auto_brightness_height_width" android:layout_height="@dimen/auto_brightness_height_width" android:layout_marginStart="@dimen/rounded_slider_icon_inset" />
+</com.android.systemui.settings.brightness.BrightnessSliderView>

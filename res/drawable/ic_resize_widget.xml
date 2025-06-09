@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/widget_delete_button_size" android:width="@dimen/widget_delete_button_size" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:androidprv="http://schemas.android.com/apk/prv/res/android">
+    <path android:fillColor="@color/qs_tile_resize_button_background" android:pathData="M12,12 m-12,0a12,12 0,1 1,24 0a12,12 0,1 1,-24 0" />
+    <path android:fillColor="@color/qs_tile_resize_button_icon" android:pathData="M7.66650433333 7.66634033333L11.66650333333 7.66634133333L11.66650333333 8.99967333333L8.99983333333 8.99967333333L8.99983333333 11.66634L7.66650433333 11.66634L7.66650433333 7.66634033333ZM12.99983333333 15.6663433333L15.6665033333 15.6663433333L15.6665033333 12.9996733333L16.9998333333 12.9996733333L16.9998333333 16.9996733333L12.99983333333 16.9996733333L12.99983333333 15.6663433333Z" />
+</vector>

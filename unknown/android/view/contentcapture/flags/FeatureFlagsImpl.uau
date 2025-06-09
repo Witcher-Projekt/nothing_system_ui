@@ -1,0 +1,2 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/view/contentcapture/flags/FeatureFlagsImpl;->runOnBackgroundThreadEnabled()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/view/contentcapture/flags/FeatureFlagsImpl.java,8,5,8,25,

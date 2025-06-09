@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:androidprv="http://schemas.android.com/apk/prv/res/android">
+    <item android:id="@id/circle" android:drawable="@drawable/bluetooth_page_circle_default" />
+    <item android:id="@id/icon" android:drawable="@drawable/bluetooth_page_nothing_icon_watch_default" />
+</layer-list>

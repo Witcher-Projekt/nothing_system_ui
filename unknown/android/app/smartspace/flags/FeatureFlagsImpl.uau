@@ -1,0 +1,3 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/app/smartspace/flags/FeatureFlagsImpl;->accessSmartspace()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/app/smartspace/flags/FeatureFlagsImpl.java,8,5,8,25,
+Landroid/app/smartspace/flags/FeatureFlagsImpl;->remoteViews()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/app/smartspace/flags/FeatureFlagsImpl.java,15,5,15,25,

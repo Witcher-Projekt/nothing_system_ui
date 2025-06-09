@@ -1,0 +1,5 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/service/chooser/FeatureFlagsImpl;->chooserAlbumText()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/service/chooser/FeatureFlagsImpl.java,8,5,8,25,
+Landroid/service/chooser/FeatureFlagsImpl;->chooserPayloadToggling()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/service/chooser/FeatureFlagsImpl.java,15,5,15,25,
+Landroid/service/chooser/FeatureFlagsImpl;->enableChooserResult()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/service/chooser/FeatureFlagsImpl.java,22,5,22,25,
+Landroid/service/chooser/FeatureFlagsImpl;->enableSharesheetMetadataExtra()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/service/chooser/FeatureFlagsImpl.java,29,5,29,25,

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.wm.shell.windowdecor.PopUpViewWindowDecorLinearLayout android:gravity="end" android:id="@id/caption" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:layout_gravity="center_vertical" android:id="@id/minimize_window" android:background="@drawable/caption_button_minimize" android:duplicateParentState="true" android:contentDescription="@string/minimize_button_text" android:alpha="0.0" style="@style/NtCaptionButtonStyle" />
+    <Space android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    <View android:layout_gravity="center_vertical" android:id="@id/caption_drag_bar" android:background="@drawable/caption_drag_bar" android:duplicateParentState="true" android:layout_width="@dimen/caption_bar_width" android:layout_height="@dimen/caption_bar_height" android:alpha="0.0" />
+    <Space android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    <Button android:layout_gravity="center_vertical" android:id="@id/close_window" android:background="@drawable/caption_button_close" android:duplicateParentState="true" android:contentDescription="@string/close_button_text" android:alpha="0.0" style="@style/NtCaptionButtonStyle" />
+</com.android.wm.shell.windowdecor.PopUpViewWindowDecorLinearLayout>

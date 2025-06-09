@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/bluetooth_container" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.viewpager.widget.ViewPager android:orientation="vertical" android:id="@id/bluetooth_pager" android:layout_width="fill_parent" android:layout_height="fill_parent" android:clipToOutline="true" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <com.android.systemui.qs.PageIndicator android:id="@id/bluetooth_indicator" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" app:layout_constraintVertical_bias="0.923" />
+    <ImageView android:id="@id/bluetooth_divider" android:visibility="gone" android:layout_width="@dimen/qs_tile_divider_width" android:layout_height="@dimen/qs_tile_divider_height" android:layout_marginTop="@dimen/bluetooth_page_divider_margin_top" android:layout_marginStart="@dimen/bluetooth_page_divider_margin_start" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

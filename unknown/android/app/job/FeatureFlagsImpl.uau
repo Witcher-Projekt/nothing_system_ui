@@ -1,0 +1,4 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/app/job/FeatureFlagsImpl;->backupJobsExemption()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/app/job/FeatureFlagsImpl.java,8,5,8,25,
+Landroid/app/job/FeatureFlagsImpl;->enforceMinimumTimeWindows()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/app/job/FeatureFlagsImpl.java,15,5,15,25,
+Landroid/app/job/FeatureFlagsImpl;->jobDebugInfoApis()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/app/job/FeatureFlagsImpl.java,22,5,22,25,

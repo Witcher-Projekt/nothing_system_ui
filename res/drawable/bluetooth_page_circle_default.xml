@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="80.0dip" android:width="80.0dip" android:viewportWidth="80.0" android:viewportHeight="80.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#00000000" android:pathData="M40,12.5L40,12.5A27.5,27.5 0,0 1,67.5 40L67.5,40A27.5,27.5 0,0 1,40 67.5L40,67.5A27.5,27.5 0,0 1,12.5 40L12.5,40A27.5,27.5 0,0 1,40 12.5z" android:strokeColor="@color/bluetooth_page_nothing_default_circle_connect_drawable" android:strokeWidth="1.0" />
+</vector>

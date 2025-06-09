@@ -1,0 +1,3 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/app/contextualsearch/flags/Flags;->enableService()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/app/contextualsearch/flags/Flags.java,12,5,12,25,
+Landroid/app/contextualsearch/flags/Flags;->enableTokenRefresh()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/app/contextualsearch/flags/Flags.java,18,5,18,25,

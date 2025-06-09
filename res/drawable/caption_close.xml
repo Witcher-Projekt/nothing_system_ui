@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/caption_button_fg_size" android:width="@dimen/caption_button_fg_size" android:viewportWidth="16.0" android:viewportHeight="16.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <clip-path android:pathData="M0,0h16v16h-16z" />
+        <path android:fillColor="@color/caption_button_fg_dark_color" android:pathData="M3.055,4.461L4.469,3.047L12.954,11.532L11.54,12.946L3.055,4.461Z" />
+        <path android:fillColor="@color/caption_button_fg_dark_color" android:pathData="M12.946,4.461L11.531,3.047L3.046,11.532L4.46,12.946L12.946,4.461Z" />
+    </group>
+</vector>

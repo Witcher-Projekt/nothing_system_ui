@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:insetLeft="@dimen/icon_between_wifi_and_signal_inset_left" android:insetRight="@dimen/icon_between_wifi_and_signal_inset_right"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <vector android:height="16.0dip" android:width="16.0dip" android:viewportWidth="16.0" android:viewportHeight="16.0"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <path android:fillColor="#ffffffff" android:pathData="M5.18,4.507L4.153,3.657L0.547,8L4.153,12.347L5.18,11.497L2.28,8L5.18,4.507ZM4.667,8.667H6V7.333H4.667V8.667ZM11.333,7.333H10V8.667H11.333V7.333ZM7.333,8.667H8.667V7.333H7.333V8.667ZM11.847,3.653L10.82,4.503L13.72,8L10.82,11.493L11.847,12.343L15.453,8L11.847,3.653Z" />
+    </vector>
+</inset>

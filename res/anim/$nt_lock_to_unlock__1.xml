@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:interpolator="@anim/$nt_lock_to_unlock__2" android:duration="117" android:startOffset="0" android:valueFrom="M 22.6905,24.3078 L 22.6418,20.0 C 22.6418,20.0,22.6418,15.2891,28.2285,15.2891 C 33.3668,15.2891,33.3668,20.0,33.3668,20.0 L 33.4058,24.4443" android:valueTo="M 22.652,18.0 L 22.652,18.0 C 22.652,18.0,22.652,12.997,28.248,12.997 C 33.406,12.997,33.396,18.0,33.396,18.0 L 33.406,24.522 " android:valueType="pathType" android:propertyName="pathData" />
+    <objectAnimator android:interpolator="@anim/$nt_lock_to_unlock__3" android:duration="133" android:startOffset="117" android:valueFrom="M 22.652,18.0 L 22.652,18.0 C 22.652,18.0,22.652,12.997,28.248,12.997 C 33.406,12.997,33.396,18.0,33.396,18.0 L 33.406,24.522 " android:valueTo="M 43.858,18.0 L 43.858,18.0 C 43.858,18.0,43.858,13.007,38.583,13.007 C 33.61,13.007,33.61,18.0,33.61,18.0 L 33.63,24.424" android:valueType="pathType" android:propertyName="pathData" />
+</set>

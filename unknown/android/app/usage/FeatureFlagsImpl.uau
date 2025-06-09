@@ -1,0 +1,8 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/app/usage/FeatureFlagsImpl;->disableIdleCheck()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/app/usage/FeatureFlagsImpl.java,8,5,8,25,
+Landroid/app/usage/FeatureFlagsImpl;->filterBasedEventQueryApi()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/app/usage/FeatureFlagsImpl.java,15,5,15,25,
+Landroid/app/usage/FeatureFlagsImpl;->getAppBytesByDataTypeApi()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/app/usage/FeatureFlagsImpl.java,22,5,22,25,
+Landroid/app/usage/FeatureFlagsImpl;->reportUsageStatsPermission()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/app/usage/FeatureFlagsImpl.java,29,5,29,25,
+Landroid/app/usage/FeatureFlagsImpl;->useDedicatedHandlerThread()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/app/usage/FeatureFlagsImpl.java,36,5,36,25,
+Landroid/app/usage/FeatureFlagsImpl;->useParceledList()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/app/usage/FeatureFlagsImpl.java,43,5,43,25,
+Landroid/app/usage/FeatureFlagsImpl;->userInteractionTypeApi()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/app/usage/FeatureFlagsImpl.java,50,5,50,25,

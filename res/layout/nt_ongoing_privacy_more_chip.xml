@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="end|center" android:id="@id/nt_privacy_more_chip" android:focusable="true" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:gravity="center" android:layout_gravity="center" android:layout_width="@dimen/ongoing_appops_chip_height" android:layout_height="@dimen/ongoing_appops_chip_height" android:src="@drawable/nt_privacy_item_circle_more" android:layout_marginStart="@dimen/nt_ongoing_privacy_more_chip_margin" android:layout_marginEnd="@dimen/nt_ongoing_privacy_more_chip_margin" />
+</FrameLayout>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profiles xmlns:launcher="http://schemas.android.com/apk/res-auto">
+    <profile launcher:defaultLayoutId="@xml/default_workspace_4x4" launcher:hotseatIconSize="74.0" launcher:iconSizeValue="74.0" launcher:iconTextSize="13.0" launcher:minAllAppsPredictionColumns="4" launcher:minHeightDps="238.0" launcher:minWidthDps="376.0" launcher:name="nothing_default" launcher:numFolderColumns="4" launcher:numFolderRows="2" launcher:numHotseatIcons="4" launcher:numLayoutColumns="4" launcher:numLayoutRows="2" />
+</profiles>

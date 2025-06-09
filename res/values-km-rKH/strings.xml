@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="amplifier_overheat">សេវាទិន្នន័យ នៅមានកម្រិត ដោយសារទូរសព្ទឡើងក្តៅខ្លាំង ។ សូមព្យាយាម ដាក់ទូរសព្ទឱ្យចុះត្រជាក់សិន ។</string>
+    <string name="change_setting_for_onenewsim">បានរកឃើញ SIM កាតថ្មី ។ វាមានស្លាកសញ្ញាជា</string>
+    <string name="change_setting_for_twonewsim">បានរកឃើញ SIM កាតថ្មី ។ ពួកវាមានស្លាកសញ្ញាជា</string>
+    <string name="change_settings">ប្តូរ</string>
+    <string name="data_usage">ការ​ប្រើ​ទិន្នន័យ</string>
+    <string name="default_sim_setting_prompt">ឥឡូវការសិត SIM ពីរោងចក្រគឺ ៖</string>
+    <string name="dismiss">ទាត់ចោល</string>
+    <string name="invalidPuk">បញ្ចូលលេខ 8 ខ្ទង់ ។</string>
+    <string name="invalid_sim_message">UIM/SIM កាតមិនបានទទួលស្គាល់ឡើយ</string>
+    <string name="invalid_sim_title">SIM កាតដែលមិនមានសុពលភាព</string>
+    <string name="keyguard_close">បិទ</string>
+    <string name="keyguard_code_donnot_mismatch">មិនអាចផ្គូផ្គងគ្នាបានឡើយ ។</string>
+    <string name="keyguard_code_length_prompt">បញ្ចូលលេខ 4-8 ខ្ទង់ ។</string>
+    <string name="keyguard_data">ការតភ្ជាប់ទិន្នន័យ ៖</string>
+    <string name="keyguard_password_Confirm_pin_code">បញ្ជាក់ PIN ថ្មី</string>
+    <string name="keyguard_password_enter_new_pin_code">បញ្ចូល PIN ថ្មី</string>
+    <string name="keyguard_sms">ការផ្ញើសារ ៖</string>
+    <string name="keyguard_wrong_code_input">ខុសកូដ ។</string>
+    <string name="kg_detecting_simcard">កំពុងអង្កេតរក…</string>
+    <string name="kg_emergency_call_label">ការហៅទូរសព្ទបន្ទាន់</string>
+    <string name="kg_new_simcard">ស៊ីម កាដថ្មី</string>
+    <string name="kg_slot_id">"រន្ធ %d: "</string>
+    <string name="lockscreen_missing_sim_dialog_message">អត់មានដាក់ SIM កាដទេ។ សូមធ្វើឲ្យប្រាកដថា មានការដាក់ SIM កាដ​អ្នកបានត្រឹមត្រូវហើយ។</string>
+    <string name="mobile">ការតភ្ជាប់ទិន្នន័យ ។</string>
+    <string name="network_searching">កំពុងរាវរាកបណ្តាញថ្មី</string>
+    <string name="new_simcard">ស៊ីម កាដថ្មី</string>
+    <string name="ppl_prompt">សូម​វាយបញ្ចូល​ពាក្យសម្ងាត់​សម្រាប់ការការពារ​សិទ្ធិឯកជន​ដើម្បី​ដោះសោ។</string>
+    <string name="quick_settings_data_sim_notset">គ្មានការកំណត់ស៊ីមទុកទិន្នន័យ</string>
+    <string name="retries_left">នៅសល់ ៖ %d</string>
+    <string name="screen_pinning_description_physical_key">នេះរក្សាវានៅក្នុងរូបភាពមើលរហូត បើអ្នកមិនបានដោះខ្ទាស់ចេញទេនោះ។ ចុចផ្អិបប៊ូតុង​ត្រឡប់ក្រោយ​ឲ្យយូរដើម្បីដោះខ្ទាស់ចេញ។</string>
+    <string name="sd_accessing_swtich_user_message">នឹង​បាត់ ឬ​ខូចទិន្នន័យទាំងអស់​ដែលមិនបានរក្សាទុកនៅក្នុងគណនី​នៃ​ម្ចាស់។</string>
+    <string name="sd_accessing_swtich_user_title">ប្ដូរអ្នកប្រើឬ?</string>
+    <string name="searching_simcard">កំពុងរកឃើញ ...</string>
+    <string name="sim_card_changed_dialog_title">បានប្តូរ SIM កាត</string>
+    <string name="sim_card_removed">បានដក SIM កាតចេញ ។</string>
+    <string name="sim_card_swapped">បានដូរ SIM កាត ។</string>
+    <string name="sim_permanently_locked">បញ្ចូលកូដ PUK ខុសចំនួនច្រើនជាង 10 ដង SIM កាតបានត្រូវចាក់សោជាប់ជាអចិន្ត្រៃយ៍ ។</string>
+    <string name="simlock_entersimmelock">បញ្ចូលសោ SIM ME</string>
+    <string name="simlock_slot_locked_message">ប្រឡោះកាតត្រូវបានចាក់សោជាអចិន្ត្រៃយ៍</string>
+    <string name="slot_id">រន្ធ %d:</string>
+    <string name="wfd_sink_summary">អាចរកឃើញ​ដោយ​អ្នកផ្សេងៗទៀត</string>
+    <string name="wifi_security_wapi_certificate">វិញ្ញាបនប័ត្រ WAPI</string>
+</resources>

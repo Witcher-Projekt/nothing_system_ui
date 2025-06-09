@@ -1,0 +1,6 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/hardware/biometrics/FeatureFlagsImpl;->addKeyAgreementCryptoObject()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/hardware/biometrics/FeatureFlagsImpl.java,8,5,8,25,
+Landroid/hardware/biometrics/FeatureFlagsImpl;->customBiometricPrompt()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/hardware/biometrics/FeatureFlagsImpl.java,15,5,15,25,
+Landroid/hardware/biometrics/FeatureFlagsImpl;->getOpIdCryptoObject()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/hardware/biometrics/FeatureFlagsImpl.java,22,5,22,25,
+Landroid/hardware/biometrics/FeatureFlagsImpl;->lastAuthenticationTime()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/hardware/biometrics/FeatureFlagsImpl.java,29,5,29,25,
+Landroid/hardware/biometrics/FeatureFlagsImpl;->mandatoryBiometrics()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/hardware/biometrics/FeatureFlagsImpl.java,36,5,36,25,

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="NothingFontStyle">
+        <item name="android:fontFamily">NDot77JPExtended</item>
+    </style>
+    <style name="NothingStyleDialogTitle">
+        <item name="android:textSize">@dimen/dialog_title_text_size</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:gravity">center</item>
+        <item name="android:fontFamily">NDot77JPExtended</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:lineHeight">32.0sp</item>
+    </style>
+    <style name="Theme.CollapsedToolbarTitle" parent="@android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Title">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">@color/toolbar_title</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">NDot77JPExtended</item>
+    </style>
+</resources>

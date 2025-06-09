@@ -1,0 +1,2 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/service/appprediction/flags/Flags;->serviceFeaturesApi()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/service/appprediction/flags/Flags.java,10,5,10,25,

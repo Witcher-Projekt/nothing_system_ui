@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_look_setting_calendar_subtitle">Naptár-események és emlékeztetők</string>
+    <string name="quick_look_setting_calendar_title">Naptár</string>
+    <string name="quick_look_widget_calendar_in_time">%d perc múlva</string>
+    <string name="quick_look_widget_calendar_now">most</string>
+    <string name="quick_look_widget_calendar_tomorrow">Holnap</string>
+    <string name="quick_look_widget_calendar_yesterday">Tegnap</string>
+</resources>

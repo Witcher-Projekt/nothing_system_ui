@@ -1,0 +1,7 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/appwidget/flags/CustomFeatureFlags;->drawDataParcel()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/appwidget/flags/CustomFeatureFlags.java,21,5,21,25,
+Landroid/appwidget/flags/CustomFeatureFlags;->generatedPreviews()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/appwidget/flags/CustomFeatureFlags.java,28,5,28,25,
+Landroid/appwidget/flags/CustomFeatureFlags;->remoteAdapterConversion()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/appwidget/flags/CustomFeatureFlags.java,35,5,35,25,
+Landroid/appwidget/flags/CustomFeatureFlags;->removeAppWidgetServiceIoFromCriticalPath()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/appwidget/flags/CustomFeatureFlags.java,42,5,42,25,
+Landroid/appwidget/flags/CustomFeatureFlags;->supportResumeRestoreAfterReboot()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/appwidget/flags/CustomFeatureFlags.java,49,5,49,25,
+Landroid/appwidget/flags/CustomFeatureFlags;->throttleWidgetUpdates()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/appwidget/flags/CustomFeatureFlags.java,56,5,56,25,

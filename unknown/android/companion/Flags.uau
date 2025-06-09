@@ -1,0 +1,8 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/companion/Flags;->associationTag()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/companion/Flags.java,22,5,22,25,
+Landroid/companion/Flags;->companionTransportApis()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/companion/Flags.java,28,5,28,25,
+Landroid/companion/Flags;->devicePresence()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/companion/Flags.java,34,5,34,25,
+Landroid/companion/Flags;->newAssociationBuilder()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/companion/Flags.java,40,5,40,25,
+Landroid/companion/Flags;->ongoingPermSync()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/companion/Flags.java,46,5,46,25,
+Landroid/companion/Flags;->permSyncUserConsent()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/companion/Flags.java,52,5,52,25,
+Landroid/companion/Flags;->unpairAssociatedDevice()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/companion/Flags.java,58,5,58,25,

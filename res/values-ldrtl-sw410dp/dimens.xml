@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nt_qs_landscape_edge_end_margin">26.0dip</dimen>
+    <dimen name="nt_qs_landscape_edge_start_margin">52.0dip</dimen>
+    <dimen name="nt_qs_status_bar_clock_translation_x">-14.0dip</dimen>
+    <dimen name="nt_qs_status_bar_large_screen_left_part_clock_margin_start">14.0dip</dimen>
+    <dimen name="nt_qs_status_bar_left_translation_x">-17.0dip</dimen>
+    <dimen name="nt_qs_status_bar_privacy_tanslation_x">-28.599976dip</dimen>
+    <dimen name="nt_qs_status_bar_right_translation_x">18.0dip</dimen>
+</resources>

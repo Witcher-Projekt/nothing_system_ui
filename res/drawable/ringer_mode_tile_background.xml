@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/ringer_tile_background_undercover" android:drawable="@drawable/qs_tile_background_shape" />
+    <item android:id="@id/qs_tile_background_bottom" android:drawable="@drawable/qs_tile_background_shape" android:color="@color/qs_tile_inactive_background_color" />
+    <item android:id="@id/qs_tile_background_dots" android:drawable="@drawable/tile_background_dots" android:color="@color/tile_background_dots_color" />
+</layer-list>

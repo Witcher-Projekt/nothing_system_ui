@@ -1,0 +1,5 @@
+signature,file,startline,startcol,endline,endcol,properties
+Lcom/android/graphics/flags/FeatureFlagsImpl;->exactComputeBounds()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/graphics/flags/FeatureFlagsImpl.java,8,5,8,25,
+Lcom/android/graphics/flags/FeatureFlagsImpl;->iconLoadDrawableReturnNullWhenUriDecodeFails()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/graphics/flags/FeatureFlagsImpl.java,15,5,15,25,
+Lcom/android/graphics/flags/FeatureFlagsImpl;->okLabColorspace()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/graphics/flags/FeatureFlagsImpl.java,22,5,22,25,
+Lcom/android/graphics/flags/FeatureFlagsImpl;->yuvImageCompressToUltraHdr()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/graphics/flags/FeatureFlagsImpl.java,29,5,29,25,

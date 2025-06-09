@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/cpu_usage_app_list_item_container_height" android:paddingStart="@dimen/cpu_usage_app_list_item_container_padding_start">
+        <ImageView android:id="@id/app_icon" android:layout_width="@dimen/cpu_usage_app_list_item_icon_size" android:layout_height="@dimen/cpu_usage_app_list_item_icon_size" />
+        <TextView android:textSize="@dimen/cpu_usage_app_list_item_app_name_text_size" android:textColor="@color/cpu_usage_list_item_text_color_n1_50" android:gravity="start" android:id="@id/app_name" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="app name" android:layout_weight="1.0" android:fontFamily="sans-serif" android:textAlignment="viewStart" android:layout_marginStart="@dimen/cpu_usage_app_list_item_app_name_margin" android:layout_marginEnd="@dimen/cpu_usage_app_list_item_app_name_margin" android:letterSpacing="0.01" />
+        <ImageButton android:layout_gravity="center|right" android:id="@id/close_app" android:background="@null" android:layout_width="@dimen/cpu_usage_app_list_item_close_app_btn_width" android:layout_height="@dimen/cpu_usage_app_list_item_close_app_btn_height" android:src="@drawable/ic_close_app" />
+    </LinearLayout>
+</FrameLayout>

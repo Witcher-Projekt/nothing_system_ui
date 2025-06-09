@@ -1,0 +1,2 @@
+signature,file,startline,startcol,endline,endcol,properties
+Lcom/android/media/editing/flags/FeatureFlags;->addMediaMetricsEditing()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/media/editing/flags/FeatureFlags.java,9,5,9,25,

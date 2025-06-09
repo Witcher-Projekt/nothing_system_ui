@@ -1,0 +1,4 @@
+signature,file,startline,startcol,endline,endcol,properties
+Lcom/android/media/codec/flags/Flags;->aidlHal()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/media/codec/flags/Flags.java,14,5,14,25,
+Lcom/android/media/codec/flags/Flags;->codecImportance()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/media/codec/flags/Flags.java,20,5,20,25,
+Lcom/android/media/codec/flags/Flags;->largeAudioFrame()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/media/codec/flags/Flags.java,26,5,26,25,

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/volume_row_icon_color" android:pathData="M12,21.5C13.1,21.5 14,20.6 14,19.5H10C10,20.6 10.9,21.5 12,21.5ZM12,6C14.49,6 16,8.02 16,10.5V10.6L18,12.6V10.5C18,7.43 16.37,4.86 13.5,4.18V3.5C13.5,2.67 12.83,2 12,2C11.17,2 10.5,2.67 10.5,3.5V4.18C10.26,4.24 10.03,4.33 9.81,4.41L11.45,6.05C11.63,6.03 11.81,6 12,6ZM5.41,2.85L4,4.26L6.81,7.07C6.29,8.07 6,9.24 6,10.5V15.5L4,17.5V18.5H18.24L19.98,20.24L21.39,18.83L5.41,2.85ZM16,16.5H8V10.5C8,9.82 8.12,9.18 8.34,8.6L16,16.26V16.5Z" />
+</vector>

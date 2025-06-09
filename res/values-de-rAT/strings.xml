@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="amplifier_overheat">Datendienste wurden wegen Überhitzung des Telefons eingeschränkt. Bitte lassen Sie das Telefon abkühlen.</string>
+    <string name="change_setting_for_onenewsim">Neue SIM-Karten erkannt. Gekennzeichnet als</string>
+    <string name="change_setting_for_twonewsim">Neue SIM-Karten erkannt. Gekennzeichnet als</string>
+    <string name="change_settings">Ändern</string>
+    <string name="data_usage">Datennutzung</string>
+    <string name="default_sim_setting_prompt">Vorgabeeinstellungen sind jetzt:</string>
+    <string name="dismiss">Ablehnen</string>
+    <string name="invalidPuk">8 Ziffern eingeben</string>
+    <string name="invalid_sim_message">UIM/SIM-Karte konnte nicht erkannt werden.</string>
+    <string name="invalid_sim_title">SIM-Karte ungültig</string>
+    <string name="keyguard_close">Schließen</string>
+    <string name="keyguard_code_donnot_mismatch">Keine Übereinstimmung</string>
+    <string name="keyguard_code_length_prompt">Eingabe 4 - 8 Stellen</string>
+    <string name="keyguard_data">Datenverbindung:</string>
+    <string name="keyguard_password_Confirm_pin_code">Neuen PIN bestätigen</string>
+    <string name="keyguard_password_enter_new_pin_code">Neuen PIN eingeben</string>
+    <string name="keyguard_sms">Benachrichtigung:</string>
+    <string name="keyguard_wrong_code_input">Falscher Code</string>
+    <string name="kg_detecting_simcard">Erkennungläuft...</string>
+    <string name="kg_emergency_call_label">Notruf</string>
+    <string name="kg_new_simcard">Neue SIM-Karte</string>
+    <string name="kg_slot_id">"Einschub %d: "</string>
+    <string name="lockscreen_missing_sim_dialog_message">SIM-Karte ist gezogen. Vergewissern Sie sich, ob die SIM-Karte korrekt eingeschoben wurde.</string>
+    <string name="mobile">Datenverbindung</string>
+    <string name="network_searching">Suche nach neuem Netzwerk</string>
+    <string name="new_simcard">Neue SIM-Karte</string>
+    <string name="ppl_prompt">Geben Sie zum Entsperren das Privatsphären-Kennwort ein.</string>
+    <string name="quick_settings_data_sim_notset">Daten-SIM nicht eingerichtet</string>
+    <string name="retries_left">Remains:%d</string>
+    <string name="screen_pinning_description_physical_key">Dies sorgt bis zum Lösen für eine permanente Anzeige. Zum Lösen halten Sie die Zurück-Schaltfläche angetippt.</string>
+    <string name="sd_accessing_swtich_user_message">Alle nicht gespeicherten Daten des Benutzerkontos gehen verloren oder werden beschädigt.</string>
+    <string name="sd_accessing_swtich_user_title">Benutzer wechseln?</string>
+    <string name="searching_simcard">Erkennen...</string>
+    <string name="sim_card_changed_dialog_title">SIM-Karte geändert</string>
+    <string name="sim_card_removed">SIM-Karte entfernt</string>
+    <string name="sim_card_swapped">SIM-Karte ausgetauscht</string>
+    <string name="sim_permanently_locked">Wird der PUK-Code mehr als 10-mal falsch eingegeben, wird die SIM-Karte dauerhaft gesperrt.</string>
+    <string name="simlock_entersimmelock">SIM-ME-Sperre eingeben</string>
+    <string name="simlock_slot_locked_message">Der Einschub wurde dauerhaft gesperrt.</string>
+    <string name="slot_id">Einschub %d:</string>
+    <string name="wfd_sink_summary">FürandereGerätesichtbar</string>
+    <string name="wifi_security_wapi_certificate">WAPI-Zertifikat</string>
+</resources>

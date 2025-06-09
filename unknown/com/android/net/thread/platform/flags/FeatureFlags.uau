@@ -1,0 +1,3 @@
+signature,file,startline,startcol,endline,endcol,properties
+Lcom/android/net/thread/platform/flags/FeatureFlags;->threadEnabledPlatform()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/net/thread/platform/flags/FeatureFlags.java,9,5,9,25,
+Lcom/android/net/thread/platform/flags/FeatureFlags;->threadUserRestrictionEnabled()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/net/thread/platform/flags/FeatureFlags.java,13,5,13,25,

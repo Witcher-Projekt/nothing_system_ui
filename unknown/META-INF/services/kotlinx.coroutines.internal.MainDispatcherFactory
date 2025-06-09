@@ -1,0 +1,4 @@
+kotlinx.coroutines.android.AndroidDispatcherFactory
+kotlinx.coroutines.test.internal.TestMainDispatcherFactory
+kotlinx.coroutines.android.AndroidDispatcherFactory
+kotlinx.coroutines.android.AndroidDispatcherFactory

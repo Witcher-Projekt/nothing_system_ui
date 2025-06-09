@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:gravity="center" android:orientation="vertical" android:id="@id/qs_widget_layout" android:background="@drawable/qs_widget_bg_1_off" android:layout_width="78.0dip" android:layout_height="78.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/qs_widget_foreground_view" android:background="@drawable/qs_widget_bg_1_on" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/widget_icon_container" android:layout_width="24.0dip" android:layout_height="24.0dip">
+            <ImageView android:id="@id/qs_widget_icon" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/widget_text_container" android:paddingTop="20.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="16.0sp" android:textColor="@color/widget_icon_state_off_color" android:gravity="center" android:id="@id/qs_widget_label" android:layout_width="fill_parent" android:layout_height="wrap_content" android:fontFamily="sans-serif-light" android:letterSpacing="0.025" android:lineHeight="22.0sp" />
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

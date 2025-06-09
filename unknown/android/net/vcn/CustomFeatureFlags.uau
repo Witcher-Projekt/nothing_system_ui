@@ -1,0 +1,9 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/net/vcn/CustomFeatureFlags;->allowDisableIpsecLossDetector()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/net/vcn/CustomFeatureFlags.java,21,5,21,25,
+Landroid/net/vcn/CustomFeatureFlags;->enforceMainUser()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/net/vcn/CustomFeatureFlags.java,28,5,28,25,
+Landroid/net/vcn/CustomFeatureFlags;->evaluateIpsecLossOnLpNcChange()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/net/vcn/CustomFeatureFlags.java,35,5,35,25,
+Landroid/net/vcn/CustomFeatureFlags;->handleSeqNumLeap()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/net/vcn/CustomFeatureFlags.java,42,5,42,25,
+Landroid/net/vcn/CustomFeatureFlags;->networkMetricMonitor()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/net/vcn/CustomFeatureFlags.java,49,5,49,25,
+Landroid/net/vcn/CustomFeatureFlags;->safeModeConfig()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/net/vcn/CustomFeatureFlags.java,56,5,56,25,
+Landroid/net/vcn/CustomFeatureFlags;->safeModeTimeoutConfig()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/net/vcn/CustomFeatureFlags.java,63,5,63,25,
+Landroid/net/vcn/CustomFeatureFlags;->validateNetworkOnIpsecLoss()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/net/vcn/CustomFeatureFlags.java,70,5,70,25,

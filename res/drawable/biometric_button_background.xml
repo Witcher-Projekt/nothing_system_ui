@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="@color/biometric_button_color" android:alpha="0.12"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:androidprv="http://schemas.android.com/apk/prv/res/android">
+    <item android:id="@android:id/mask">
+        <shape android:shape="rectangle">
+            <size android:height="36.0dip" android:width="76.0dip" />
+            <solid android:color="@color/biometric_button_color" android:alpha="0.12" />
+            <corners android:radius="36.0dip" />
+        </shape>
+    </item>
+</ripple>

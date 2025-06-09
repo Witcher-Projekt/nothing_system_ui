@@ -1,0 +1,36 @@
+.class public final synthetic Lcom/android/systemui/unfold/FoldAodAnimationController$$ExternalSyntheticLambda5;
+.super Ljava/lang/Object;
+.source "D8$$SyntheticClass"
+
+# interfaces
+.implements Ljava/lang/Runnable;
+
+
+# instance fields
+.field public final synthetic f$0:Lcom/android/systemui/unfold/FoldAodAnimationController;
+
+
+# direct methods
+.method public synthetic constructor <init>(Lcom/android/systemui/unfold/FoldAodAnimationController;)V
+    .locals 0
+
+    .line 0
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    iput-object p1, p0, Lcom/android/systemui/unfold/FoldAodAnimationController$$ExternalSyntheticLambda5;->f$0:Lcom/android/systemui/unfold/FoldAodAnimationController;
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final run()V
+    .locals 0
+
+    .line 0
+    iget-object p0, p0, Lcom/android/systemui/unfold/FoldAodAnimationController$$ExternalSyntheticLambda5;->f$0:Lcom/android/systemui/unfold/FoldAodAnimationController;
+
+    invoke-static {p0}, Lcom/android/systemui/unfold/FoldAodAnimationController;->$r8$lambda$qjK3bKn17QPEm2QS_uqpz6UHMME(Lcom/android/systemui/unfold/FoldAodAnimationController;)V
+
+    return-void
+.end method

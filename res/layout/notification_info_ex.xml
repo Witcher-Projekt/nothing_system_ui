@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:background="@color/notification_guts_priority_button_bg_stroke" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:padding="@dimen/notification_importance_button_padding" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/notification_importance_button_separation">
+        <ImageView android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/essential_icon" android:background="@android:color/transparent" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_notifications_essential" android:tint="?android:textColorSecondary" android:layout_marginStart="@dimen/notification_essential_drawable_padding_start" android:layout_marginEnd="@dimen/notification_essential_drawable_padding_end" />
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/essential_label_container" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <TextView android:textAppearance="@style/TextAppearance.NotificationImportanceButton" android:textColor="?android:textColorSecondary" android:ellipsize="end" android:gravity="start|bottom|center" android:layout_gravity="start|bottom|center" android:id="@id/essential_label" android:focusable="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/glyph_notifications_essential_effect" android:maxLines="1" android:textAlignment="viewStart" />
+            <TextView android:textAppearance="@style/TextAppearance.NotificationImportanceDetail" android:ellipsize="end" android:gravity="start|center|top" android:layout_gravity="start|center|top" android:id="@id/essential_summary" android:focusable="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/glyph_notifications_essential_subtitle_unset" android:maxLines="1" />
+        </LinearLayout>
+        <View android:layout_gravity="center" android:background="@color/notification_guts_priority_button_bg_stroke" android:layout_width="1.0dip" android:layout_height="28.0dip" />
+        <LinearLayout android:layout_gravity="center" android:id="@id/essential_switch_container" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <Switch android:gravity="center" android:layout_gravity="center" android:id="@id/essential_switch" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginStart="@dimen/notification_importance_button_padding" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

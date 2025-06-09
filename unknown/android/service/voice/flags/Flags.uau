@@ -1,0 +1,4 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/service/voice/flags/Flags;->allowForegroundActivitiesInOnShow()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/service/voice/flags/Flags.java,14,5,14,25,
+Landroid/service/voice/flags/Flags;->allowHotwordBumpEgress()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/service/voice/flags/Flags.java,20,5,20,25,
+Landroid/service/voice/flags/Flags;->allowTrainingDataEgressFromHds()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/service/voice/flags/Flags.java,26,5,26,25,

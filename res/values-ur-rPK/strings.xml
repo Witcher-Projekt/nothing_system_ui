@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="change_setting_for_onenewsim">نئی SIM کارڈ دریافت ہوئی۔ یہ بطور کے نشان زد ہے</string>
+    <string name="change_setting_for_twonewsim">نئی SIM کارڈ دریافت ہوئی۔ یہ بطور کے نشان زد ہیں</string>
+    <string name="change_settings">تبدیل کرنا</string>
+    <string name="default_sim_setting_prompt">اب بنیادی SIM ترتیبات ہیں:</string>
+    <string name="dismiss">برخاست کرنا</string>
+    <string name="invalidPuk">8 عدد انپٹ کریں۔</string>
+    <string name="invalid_sim_message">UIM/SIM منظور شدہ نہیں ہیں</string>
+    <string name="invalid_sim_title">غلط SIM کارڈ</string>
+    <string name="keyguard_close">بند</string>
+    <string name="keyguard_code_donnot_mismatch">مطابق نہ بنائیں۔</string>
+    <string name="keyguard_code_length_prompt">4-8 عدد انپٹ کریں۔</string>
+    <string name="keyguard_data">ڈیٹا اتصال:</string>
+    <string name="keyguard_password_Confirm_pin_code">نئی PIN کی تصدیق کرلیں</string>
+    <string name="keyguard_password_enter_new_pin_code">نئی PIN داخل کریں</string>
+    <string name="keyguard_sms">پیغام رسانی:</string>
+    <string name="keyguard_wrong_code_input">غلط کوڈ۔</string>
+    <string name="lockscreen_missing_sim_dialog_message">SIM کارڈ ہٹا دیا گیا ہے۔ براہ کرم یہ یقینی بنائیں کہ آپ کا SIM کارڈ ٹھیک طرح سے لگا ہوا ہے۔</string>
+    <string name="network_searching">نیا نیٹ ورک تلاش کررہا ہے</string>
+    <string name="new_simcard">نیا SIM کارڈ</string>
+    <string name="ppl_prompt">براہ کرم ان لاک کرنے کے لیے رازداری کے تحفظ والا پاسورڈ درج کریں۔</string>
+    <string name="retries_left">باقی ہے: %d</string>
+    <string name="sd_accessing_swtich_user_message">مالک کے اکاؤنٹ کا سبھی غیر محفوظ ڈیٹا ختم یا ناقص ہوجائے گا۔</string>
+    <string name="sd_accessing_swtich_user_title">صارف تبدیل کریں؟</string>
+    <string name="searching_simcard">دریافت کررہا ہے۔۔۔</string>
+    <string name="sim_card_changed_dialog_title">SIM کارڈ بدل دیا گیا</string>
+    <string name="sim_card_removed">SIM کارڈ ہٹا دیا گیا۔</string>
+    <string name="sim_card_swapped">SIM کارڈ تبدیل کردیا گیا۔</string>
+    <string name="sim_permanently_locked">10 مرتبہ سے زیادہ PUK کوڈ داخل کرنے سے SIM کارڈ ہمیشہ کے لئے بلاک کردیا جاتا ہے۔</string>
+    <string name="simlock_entersimmelock">SIM ME لاک درج کریں</string>
+    <string name="simlock_slot_locked_message">خانے کو مستقل طور پر لاک کردیا گیا ہے</string>
+    <string name="slot_id">سلاٹ %d:</string>
+</resources>

@@ -1,0 +1,5 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/os/vibrator/CustomFeatureFlags;->adaptiveHapticsEnabled()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/os/vibrator/CustomFeatureFlags.java,21,5,21,25,
+Landroid/os/vibrator/CustomFeatureFlags;->hapticFeedbackVibrationOemCustomizationEnabled()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/os/vibrator/CustomFeatureFlags.java,28,5,28,25,
+Landroid/os/vibrator/CustomFeatureFlags;->keyboardCategoryEnabled()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/os/vibrator/CustomFeatureFlags.java,35,5,35,25,
+Landroid/os/vibrator/CustomFeatureFlags;->useVibratorHapticFeedback()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/os/vibrator/CustomFeatureFlags.java,42,5,42,25,

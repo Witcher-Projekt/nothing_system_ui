@@ -1,0 +1,8 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/app/usage/Flags;->disableIdleCheck()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/app/usage/Flags.java,22,5,22,25,
+Landroid/app/usage/Flags;->filterBasedEventQueryApi()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/app/usage/Flags.java,28,5,28,25,
+Landroid/app/usage/Flags;->getAppBytesByDataTypeApi()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/app/usage/Flags.java,34,5,34,25,
+Landroid/app/usage/Flags;->reportUsageStatsPermission()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/app/usage/Flags.java,40,5,40,25,
+Landroid/app/usage/Flags;->useDedicatedHandlerThread()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/app/usage/Flags.java,46,5,46,25,
+Landroid/app/usage/Flags;->useParceledList()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/app/usage/Flags.java,52,5,52,25,
+Landroid/app/usage/Flags;->userInteractionTypeApi()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/app/usage/Flags.java,58,5,58,25,

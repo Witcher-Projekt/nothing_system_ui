@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="biometric_auth_pattern_view_max_size">348.0dip</dimen>
+    <dimen name="biometric_auth_pattern_view_size">248.0dip</dimen>
+    <dimen name="global_actions_button_padding">38.0dip</dimen>
+    <dimen name="global_actions_button_size">96.0dip</dimen>
+    <dimen name="nt_qs_panel_qqs_to_qs_translation_y">0.0dip</dimen>
+    <dimen name="present_container_height">392.0dip</dimen>
+    <dimen name="qs_panel_padding_top">0.0dip</dimen>
+</resources>

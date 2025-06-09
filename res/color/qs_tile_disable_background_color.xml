@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="@color/qs_tile_unavailable_background_color" android:alpha="@dimen/qs_tile_disable_background_color_alpha" />
+</selector>

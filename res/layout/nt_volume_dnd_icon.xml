@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/dnd_icon" android:background="@drawable/volume_row_rounded_background" android:layout_width="12.0dip" android:layout_height="12.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:layout_width="8.0dip" android:layout_height="8.0dip" android:src="@drawable/nt_ic_volume_dnd" android:tint="@color/volume_color_n1_400" />
+</FrameLayout>

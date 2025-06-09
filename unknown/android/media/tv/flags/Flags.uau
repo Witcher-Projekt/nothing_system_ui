@@ -1,0 +1,4 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/media/tv/flags/Flags;->broadcastVisibilityTypes()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/media/tv/flags/Flags.java,14,5,14,25,
+Landroid/media/tv/flags/Flags;->enableAdServiceFw()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/media/tv/flags/Flags.java,20,5,20,25,
+Landroid/media/tv/flags/Flags;->tiafVApis()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/media/tv/flags/Flags.java,26,5,26,25,

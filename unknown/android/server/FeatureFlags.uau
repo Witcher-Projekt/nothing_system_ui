@@ -1,0 +1,3 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/server/FeatureFlags;->removeTextService()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/server/FeatureFlags.java,9,5,9,25,
+Landroid/server/FeatureFlags;->telemetryApisService()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/server/FeatureFlags.java,13,5,13,25,

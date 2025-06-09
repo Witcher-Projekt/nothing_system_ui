@@ -1,0 +1,8 @@
+signature,file,startline,startcol,endline,endcol,properties
+Lcom/android/hardware/input/Flags;->emojiAndScreenshotKeycodesAvailable()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/hardware/input/Flags.java,22,5,22,25,
+Lcom/android/hardware/input/Flags;->keyboardA11yBounceKeysFlag()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/hardware/input/Flags.java,28,5,28,25,
+Lcom/android/hardware/input/Flags;->keyboardA11ySlowKeysFlag()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/hardware/input/Flags.java,34,5,34,25,
+Lcom/android/hardware/input/Flags;->keyboardA11yStickyKeysFlag()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/hardware/input/Flags.java,40,5,40,25,
+Lcom/android/hardware/input/Flags;->keyboardLayoutPreviewFlag()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/hardware/input/Flags.java,46,5,46,25,
+Lcom/android/hardware/input/Flags;->pointerCoordsIsResampledApi()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/hardware/input/Flags.java,52,5,52,25,
+Lcom/android/hardware/input/Flags;->touchpadTapDragging()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/com/android/hardware/input/Flags.java,58,5,58,25,

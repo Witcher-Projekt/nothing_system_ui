@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="keyguard_eca_bottom_margin">4.0dip</dimen>
+    <dimen name="keyguard_eca_top_margin">4.0dip</dimen>
+    <dimen name="keyguard_password_height">50.0dip</dimen>
+    <dimen name="nt_qs_panel_qqs_to_qs_translation_y">0.0dip</dimen>
+    <dimen name="num_pad_row_margin_bottom">4.0dip</dimen>
+    <dimen name="present_container_height">343.0dip</dimen>
+    <dimen name="qs_panel_padding_top">0.0dip</dimen>
+</resources>

@@ -1,0 +1,5 @@
+signature,file,startline,startcol,endline,endcol,properties
+Landroid/service/notification/Flags;->callstyleCallbackApi()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/service/notification/Flags.java,16,5,16,25,
+Landroid/service/notification/Flags;->rankingUpdateAshmem()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/service/notification/Flags.java,22,5,22,25,
+Landroid/service/notification/Flags;->redactSensitiveNotificationsBigTextStyle()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/service/notification/Flags.java,28,5,28,25,
+Landroid/service/notification/Flags;->redactSensitiveNotificationsFromUntrustedListeners()Z,out_sys/soong/.intermediates/frameworks/base/framework-minus-apex-aconfig-libraries-lib/android_common/javac/srcjars/android/service/notification/Flags.java,34,5,34,25,

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:shape="rectangle" android:paddingMode="stack"
+  xmlns:priv-android="http://schemas.android.com/apk/prv/res/android"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="center">
+        <inset android:insetTop="-4.0dip" android:insetBottom="-4.0dip">
+            <shape>
+                <size android:height="28.0dip" />
+                <corners android:radius="56.0dip" />
+                <solid android:color="@color/settingslib_switch_track_color" />
+                <padding android:left="4.0dip" android:right="4.0dip" />
+            </shape>
+        </inset>
+    </item>
+</layer-list>
