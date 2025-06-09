@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nt_glyphs_progress_app_not_installed">Not installed</string>
+    <string name="nt_glyphs_progress_dialog_message">In order to use this feature, Glyph Progress requires permission of incoming notifications from the enabled apps.</string>
+    <string name="nt_glyphs_progress_dialog_positive">Proceed</string>
+    <string name="nt_glyphs_progress_dialog_title">Notification content privacy</string>
+    <string name="nt_glyphs_progress_experimental_summary">Integrate the Glyph Interface with 3rd party apps</string>
+    <string name="nt_glyphs_progress_food_delivery">Food delivery</string>
+    <string name="nt_glyphs_progress_footer">Glyph Progress processes notifications from enabled apps to provide an estimation of progress. May encounter some reliability issues. Most effective with apps that are set to English.</string>
+    <string name="nt_glyphs_progress_guide_message">Integrates with third party apps to show the progress of ongoing rides and food delivery services. More to come.</string>
+    <string name="nt_glyphs_progress_guide_title">see updates in real time</string>
+    <string name="nt_glyphs_progress_notification_action">Disable for 15 minutes</string>
+    <string name="nt_glyphs_progress_notification_content_text">Displaying the estimated status of the ongoing event on the Glyph Interface</string>
+    <string name="nt_glyphs_progress_ride_hailing">Ride hailing</string>
+    <string name="nt_glyphs_progress_summary">Third party integrations</string>
+    <string name="nt_glyphs_progress_title">Glyph Progress</string>
+</resources>

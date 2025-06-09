@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="34" android:compileSdkVersionCodename="14" package="com.nothing.glyphnotification" platformBuildVersionCode="34" platformBuildVersionName="14">
+    <uses-permission android:name="com.nothing.ketchum.permission.ENABLE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES"/>
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+    <uses-permission android:name="com.nothing.launcher.permission.ACCESS_SHARE_INFO"/>
+    <uses-permission android:name="com.nothing.permission.READ_QUICKLOOK_SHARE"/>
+    <uses-permission android:name="android.permission.READ_CALENDAR"/>
+    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM"/>
+    <permission android:name="com.nothing.glyphnotification.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" android:protectionLevel="signature"/>
+    <uses-permission android:name="com.nothing.glyphnotification.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"/>
+    <application android:allowBackup="false" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:dataExtractionRules="@xml/data_extraction_rules" android:extractNativeLibs="false" android:fullBackupContent="@xml/backup_rules" android:icon="@drawable/ic_glyph_progress" android:label="@string/nt_glyphs_progress_title" android:supportsRtl="true" android:theme="@style/Theme.GlyphNotification">
+        <meta-data android:name="NothingKey" android:value="dc6ee394774046ffa78b7daf2af8a942"/>
+        <service android:exported="true" android:name="com.nothing.glyphnotification.GlyphNotificationListenerService" android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE">
+            <intent-filter>
+                <action android:name="android.service.notification.NotificationListenerService"/>
+            </intent-filter>
+        </service>
+        <receiver android:enabled="true" android:exported="true" android:name="com.nothing.glyphnotification.GlyphNotificationManager$GlyphProgressBroadcastReceiver">
+            <intent-filter>
+                <action android:name="CANCEL_ACTION"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="true" android:exported="true" android:name="com.nothing.glyphnotification.calendar.GlyphCalendarManager$GlyphCalendarAlarmReceiver"/>
+        <provider android:authorities="com.nothing.glyphnotification.androidx-startup" android:exported="false" android:name="androidx.startup.InitializationProvider">
+            <meta-data android:name="androidx.emoji2.text.EmojiCompatInitializer" android:value="androidx.startup"/>
+            <meta-data android:name="androidx.lifecycle.ProcessLifecycleInitializer" android:value="androidx.startup"/>
+        </provider>
+    </application>
+</manifest>

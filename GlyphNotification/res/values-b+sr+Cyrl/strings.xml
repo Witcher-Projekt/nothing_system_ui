@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nt_glyphs_progress_app_not_installed">Није инсталирана</string>
+    <string name="nt_glyphs_progress_dialog_message">Да бисте користили функцију Glyph напредак, неопходно је да дозволите долазна обавештења из омогућених апликација.</string>
+    <string name="nt_glyphs_progress_dialog_positive">Настави</string>
+    <string name="nt_glyphs_progress_dialog_title">Приватност садржаја обавештења</string>
+    <string name="nt_glyphs_progress_experimental_summary">Интегришите Glyph интерфејс са апликацијама трећих лица</string>
+    <string name="nt_glyphs_progress_food_delivery">Достава хране</string>
+    <string name="nt_glyphs_progress_footer">Glyph напредак обрађује обавештења из омогућених апликација како би се обезбедила процена напредовања. Могу се јавити проблеми у погледу поузданости. Најефикаснији је са апликацијама које су подешене на енглески језик.</string>
+    <string name="nt_glyphs_progress_guide_message">Интегрише се са апликацијама трећих лица, како би показао напредовање актуелних вожњи и услуга доставе хране. Ускоро ће доћи још значајки.</string>
+    <string name="nt_glyphs_progress_guide_title">погледајте ажурирања у реалном времену</string>
+    <string name="nt_glyphs_progress_notification_action">Онемогући на 15 минута</string>
+    <string name="nt_glyphs_progress_notification_content_text">На Glyph Interface је приказан процењени статус текућег догађаја</string>
+    <string name="nt_glyphs_progress_ride_hailing">Заказивање вожње</string>
+    <string name="nt_glyphs_progress_summary">Интеграције софтвера трећих лица</string>
+    <string name="nt_glyphs_progress_title">Glyph напредак</string>
+</resources>
