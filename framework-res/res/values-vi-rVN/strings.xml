@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_and_time" formatted="false">%d-%m-%Y %H:%M:%S</string>
+    <string name="date_time">%1$s %2$s</string>
+    <string name="month_day_year" formatted="false">Ngày %d tháng %-m năm %Y</string>
+    <string name="time_of_day" formatted="false">%H:%M:%S</string>
+    <string name="zzz_camer_close">Camera bị tắt</string>
+    <string name="zzz_camer_perview_nodata">Không có dữ liệu về xem trước camera</string>
+    <string name="zzz_camer_perview_timeout">Đăng ký khuôn mặt hết thời gian. Thử lại</string>
+    <string name="zzz_camer_start_error">Không thể khởi động camera</string>
+    <string name="zzz_camer_start_scuccess">Khởi động camera thành công</string>
+    <string name="zzz_camer_start_starting">Bắt đầu camera</string>
+    <string name="zzz_face_compare_liveness_frozen">Mở khóa bằng khuôn mặt đã bị vô hiệu hóa. Vui lòng sử dụng mật khẩu hoặc dấu vân tay để mở khóa</string>
+    <string name="zzz_face_compare_scuccess">Đã nhận dạng thành công</string>
+    <string name="zzz_face_failed_attr_cover_mouth">Vui lòng không che miệng</string>
+    <string name="zzz_face_failed_attr_eye_close">Vui lòng không nhắm mắt</string>
+    <string name="zzz_face_failed_attr_eye_occlusion">Bao gồm hai mắt</string>
+    <string name="zzz_face_failed_attr_face_occlusion">Khuôn mặt đã bị che</string>
+    <string name="zzz_face_failed_attr_not_in_roi">Khuôn mặt không ở trong ô được chỉ định</string>
+    <string name="zzz_face_failed_bad_light">Ánh sáng được đề xuất</string>
+    <string name="zzz_face_failed_blur">Vui lòng không di chuyển quá nhanh</string>
+    <string name="zzz_face_failed_camera_attr_blur">Ảnh này quá mờ</string>
+    <string name="zzz_face_failed_camera_steady">Vui lòng không di chuyển</string>
+    <string name="zzz_face_failed_darklight_warning">Khuôn mặt trong ánh sáng mờ</string>
+    <string name="zzz_face_failed_half_shadow">Khuôn mặt trong ánh sáng mờ</string>
+    <string name="zzz_face_failed_highlight_warning">Khuôn mặt trong ánh sáng quá sáng</string>
+    <string name="zzz_face_failed_invalid_argument">Lỗi thông số đến</string>
+    <string name="zzz_face_failed_multi">Nhiều khuôn mặt</string>
+    <string name="zzz_face_failed_not_complete">Mặt đã quét không hoàn chỉnh</string>
+    <string name="zzz_face_failed_not_found">Không phát hiện khuôn mặt</string>
+    <string name="zzz_face_failed_offset_bottom">Di chuyển lên đến giữa</string>
+    <string name="zzz_face_failed_offset_left">Di chuyển sang phải đến giữa</string>
+    <string name="zzz_face_failed_offset_right">Di chuyển sang trái đến giữa</string>
+    <string name="zzz_face_failed_offset_top">Di chuyển xuống đến giữa</string>
+    <string name="zzz_face_failed_quality">Toàn bộ khuôn mặt không được phát hiện</string>
+    <string name="zzz_face_failed_rotated_down">Góc khuôn mặt: xuống</string>
+    <string name="zzz_face_failed_rotated_left">Góc khuôn mặt: trái</string>
+    <string name="zzz_face_failed_rotated_right">Góc khuôn mặt: phải</string>
+    <string name="zzz_face_failed_rotated_top">Góc khuôn mặt: lên</string>
+    <string name="zzz_face_failed_scale_too_large">Giữ điện thoại xa hơn</string>
+    <string name="zzz_face_failed_scale_too_small">Giữ điện thoại gần hơn</string>
+    <string name="zzz_face_failed_supplier_failed">Lỗi nội bộ - vấn đề của nhà cung cấp</string>
+    <string name="zzz_face_failed_warning">Đang kiểm tra</string>
+    <string name="zzz_face_liveness_failed">Không phát hiện khuôn mặt</string>
+    <string name="zzz_face_liveness_warning">Tấn công dựa trên sự sống</string>
+    <string name="zzz_face_name_template">Khuôn mặt %d</string>
+    <string name="zzz_face_not_sample_person_error">Không có khuôn mặt tương tự, vui lòng thử lại</string>
+    <string name="zzz_face_savefeature_progress">Tiến trình: %1$d%%</string>
+    <string name="zzz_face_savefeature_scuccess">Hướng mặt lên màn hình để mở khóa</string>
+    <string name="zzz_face_savefeature_update">Vui lòng giữ toàn bộ khuôn mặt trong khung</string>
+</resources>

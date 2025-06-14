@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zzz_camer_close">کیمرہ بند ہے</string>
+    <string name="zzz_camer_perview_nodata">کیمرہ پیش منظر میں کوئی ڈیٹا نہیں</string>
+    <string name="zzz_camer_perview_timeout">چہرے کے اندراج کا وقت ختم ہو گیا۔ دوبارہ کوشش کریں</string>
+    <string name="zzz_camer_start_error">کیمرہ شروع کرنے سے قاصر</string>
+    <string name="zzz_camer_start_scuccess">کیمرہ کامیابی سے شروع ہو گیا</string>
+    <string name="zzz_camer_start_starting">کیمرہ شروع کر رہا ہے</string>
+    <string name="zzz_face_compare_liveness_frozen">چہرے سے ان لاک کرنا غیر فعال تھا۔ براہِ کرم ان لاک کرنے کے لیے پاس ورڈ یا نشانِ انگشت استعمال کریں</string>
+    <string name="zzz_face_compare_scuccess">کامیابی سے شناخت ہو گئی</string>
+    <string name="zzz_face_failed_attr_cover_mouth">براہ کرم اپنا منہ مت ڈھکیے</string>
+    <string name="zzz_face_failed_attr_eye_close">براہِ کرم اپنی آنکھیں بند نہ کریں</string>
+    <string name="zzz_face_failed_attr_eye_occlusion">آنکھیں ڈھکی ہوئی تھیں</string>
+    <string name="zzz_face_failed_attr_face_occlusion">چہرہ ڈھکا ہوا تھا</string>
+    <string name="zzz_face_failed_attr_not_in_roi">چہرہ مخصوص کردہ باکس میں نہیں ہے</string>
+    <string name="zzz_face_failed_bad_light">تیز روشنی تجویز کی جاتی ہے</string>
+    <string name="zzz_face_failed_blur">براہِ کرم بہت تیز حرکت نہ کریں</string>
+    <string name="zzz_face_failed_camera_attr_blur">تصّویر بہت دھندلی ہے</string>
+    <string name="zzz_face_failed_camera_steady">براہِ کرم حرکت نہ کریں</string>
+    <string name="zzz_face_failed_darklight_warning">چہرہ بہت کم روشنی میں ہے</string>
+    <string name="zzz_face_failed_half_shadow">چہرہ بہت کم روشنی میں ہے</string>
+    <string name="zzz_face_failed_highlight_warning">چہرہ بہت تیز روشنی میں ہے</string>
+    <string name="zzz_face_failed_invalid_argument">آنے والے پیرامیٹر کا نقص</string>
+    <string name="zzz_face_failed_multi">متّعدد چہرے</string>
+    <string name="zzz_face_failed_not_complete">چہرہ سکین کرنا نامکمل ہے</string>
+    <string name="zzz_face_failed_not_found">چہرے کی شناخت نہیں ہوئی</string>
+    <string name="zzz_face_failed_offset_bottom">مرکز پر اوپر حرکت کریں</string>
+    <string name="zzz_face_failed_offset_left">مرکز پر دائیں حرکت کریں</string>
+    <string name="zzz_face_failed_offset_right">مرکز پر بائیں حرکت کریں</string>
+    <string name="zzz_face_failed_offset_top">مرکز پر نیچے حرکت کریں</string>
+    <string name="zzz_face_failed_quality">مکمل چہرے کی شناخت نہیں ہوئی</string>
+    <string name="zzz_face_failed_rotated_down">چہرے کا رخ: نیچے</string>
+    <string name="zzz_face_failed_rotated_left">چہرے کا رخ: بائیں</string>
+    <string name="zzz_face_failed_rotated_right">چہرے کا رخ: دائیں</string>
+    <string name="zzz_face_failed_rotated_top">چہرے کا رخ: اوپر</string>
+    <string name="zzz_face_failed_scale_too_large">فون کو دور رکھیں</string>
+    <string name="zzz_face_failed_scale_too_small">فون کو قریب رکھیں</string>
+    <string name="zzz_face_failed_supplier_failed">اندرونی نقص - سپلائر کا مسئلہ</string>
+    <string name="zzz_face_failed_warning">پڑتال کر رہا ہے</string>
+    <string name="zzz_face_liveness_failed">چہرے کی شناخت نہیں ہوئی</string>
+    <string name="zzz_face_liveness_warning">لائیونگ کا حملہ</string>
+    <string name="zzz_face_name_template">چہرہ%d</string>
+    <string name="zzz_face_not_sample_person_error">وہ ہی چہرہ نہیں، براہِ کرم دوبارہ کوشش کریں</string>
+    <string name="zzz_face_savefeature_progress">کارکردگی: %1$d%%</string>
+    <string name="zzz_face_savefeature_scuccess">ان لاک کرنے کے لیے چہرے کو سکرین کے سامنے لائیں</string>
+    <string name="zzz_face_savefeature_update">براہِ کرم مکمل چہرہ فریم کے اندر رکھیں</string>
+</resources>

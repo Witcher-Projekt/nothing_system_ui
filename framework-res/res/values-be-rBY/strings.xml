@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zzz_camer_close">Камера выключана</string>
+    <string name="zzz_camer_perview_nodata">Няма дадзеных папярэдняга прагляду камеры</string>
+    <string name="zzz_camer_perview_timeout">Час запісу твару скончыўся. Паспрабуйце яшчэ раз</string>
+    <string name="zzz_camer_start_error">Памылка запуску камеры</string>
+    <string name="zzz_camer_start_scuccess">Камера паспяхова запушчана</string>
+    <string name="zzz_camer_start_starting">Запуск камеры</string>
+    <string name="zzz_face_compare_liveness_frozen">Разблакоўка тварам была адключана. Калі ласка, выкарыстоўвайце пароль або адпячатак пальца для разблакоўкі</string>
+    <string name="zzz_face_compare_scuccess">Паспяхова распазнана</string>
+    <string name="zzz_face_failed_attr_cover_mouth">Калі ласка, не прыкрывайце рот</string>
+    <string name="zzz_face_failed_attr_eye_close">Калі ласка, не заплюшчвайце вочы</string>
+    <string name="zzz_face_failed_attr_eye_occlusion">Вочы былі прыкрытыя</string>
+    <string name="zzz_face_failed_attr_face_occlusion">«Твар быў закрыты»</string>
+    <string name="zzz_face_failed_attr_not_in_roi">Твар не знаходзіцца ва ўказанай рамцы</string>
+    <string name="zzz_face_failed_bad_light">Прапанавана яркае святло</string>
+    <string name="zzz_face_failed_blur">Калі ласка, не рухайцеся занадта хутка</string>
+    <string name="zzz_face_failed_camera_attr_blur">Малюнак занадта размыты</string>
+    <string name="zzz_face_failed_camera_steady">Калі ласка, не рухайцеся</string>
+    <string name="zzz_face_failed_darklight_warning">Твар у цьмяным асвятленні</string>
+    <string name="zzz_face_failed_half_shadow">Твар у цьмяным асвятленні</string>
+    <string name="zzz_face_failed_highlight_warning">Твар у больш яркім асвятленні</string>
+    <string name="zzz_face_failed_invalid_argument">Памылка ўваходнага параметра</string>
+    <string name="zzz_face_failed_multi">Некалькі твараў</string>
+    <string name="zzz_face_failed_not_complete">Адсканаваны твар не поўны</string>
+    <string name="zzz_face_failed_not_found">Твар не выяўлены</string>
+    <string name="zzz_face_failed_offset_bottom">Ссунуцца ўверх да цэнтру</string>
+    <string name="zzz_face_failed_offset_left">Ссунуцца ўправа да цэнтру</string>
+    <string name="zzz_face_failed_offset_right">Ссунуцца ўлева да цэнтру</string>
+    <string name="zzz_face_failed_offset_top">Апусціцца да цэнтру</string>
+    <string name="zzz_face_failed_quality">Твар цалкам не выяўлены</string>
+    <string name="zzz_face_failed_rotated_down">Вугал твару: знізу</string>
+    <string name="zzz_face_failed_rotated_left">Вугал твару: злева</string>
+    <string name="zzz_face_failed_rotated_right">Вугал твару: справа</string>
+    <string name="zzz_face_failed_rotated_top">Вугал твару: зверху</string>
+    <string name="zzz_face_failed_scale_too_large">Трымайце тэлефон далей</string>
+    <string name="zzz_face_failed_scale_too_small">Трымайце тэлефон бліжэй</string>
+    <string name="zzz_face_failed_supplier_failed">Унутраная памылка — праблема пастаўшчыка</string>
+    <string name="zzz_face_failed_warning">Праверка</string>
+    <string name="zzz_face_liveness_failed">Твар не выяўлены</string>
+    <string name="zzz_face_liveness_warning">Жывая атака</string>
+    <string name="zzz_face_name_template">Твар %d</string>
+    <string name="zzz_face_not_sample_person_error">Іншы твар, калі ласка, паспрабуйце яшчэ раз</string>
+    <string name="zzz_face_savefeature_progress">Прагрэс: %1$d%%</string>
+    <string name="zzz_face_savefeature_scuccess">Паглядзіце прама на экран, каб разблакаваць</string>
+    <string name="zzz_face_savefeature_update">Калі ласка, сачыце, каб увесь твар знаходзіўся ў кадры</string>
+</resources>

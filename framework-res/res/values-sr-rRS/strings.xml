@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_and_time" formatted="false">%H.%M.%S %d.%m.%Y.</string>
+    <string name="date_time">%2$s %1$s</string>
+    <string name="month_day_year" formatted="false">%d. %B %Y.</string>
+    <string name="time_of_day" formatted="false">%H.%M.%S</string>
+    <string name="zzz_camer_close">Kamera je isključena</string>
+    <string name="zzz_camer_perview_nodata">Nema podataka u pregledu kamere</string>
+    <string name="zzz_camer_perview_timeout">Vreme za prijavljivanje lica je isteklo. Pokušajte ponovo</string>
+    <string name="zzz_camer_start_error">Pokretanje kamere nije uspelo</string>
+    <string name="zzz_camer_start_scuccess">Kamera je uspešno pokrenuta</string>
+    <string name="zzz_camer_start_starting">Pokretanje kamere</string>
+    <string name="zzz_face_compare_liveness_frozen">Otključavanje pomoću lica je onemogućeno. Koristite lozinku ili otisak prsta za otključavanje</string>
+    <string name="zzz_face_compare_scuccess">Uspešno prepoznat</string>
+    <string name="zzz_face_failed_attr_cover_mouth">Nemojte pokrivati usta</string>
+    <string name="zzz_face_failed_attr_eye_close">Nemojte još uvek zatvarati oči</string>
+    <string name="zzz_face_failed_attr_eye_occlusion">Oči su pokrivene</string>
+    <string name="zzz_face_failed_attr_face_occlusion">Lice je pokriveno</string>
+    <string name="zzz_face_failed_attr_not_in_roi">Lice nije u navedenom okviru</string>
+    <string name="zzz_face_failed_bad_light">Preporučeno je jako svetlo</string>
+    <string name="zzz_face_failed_blur">Nemojte se brzo kretati</string>
+    <string name="zzz_face_failed_camera_attr_blur">Slika je previše zamagljena</string>
+    <string name="zzz_face_failed_camera_steady">Nemojte se kretati</string>
+    <string name="zzz_face_failed_darklight_warning">Lice u zamagljenom svetlu</string>
+    <string name="zzz_face_failed_half_shadow">Lice u zamagljenom svetlu</string>
+    <string name="zzz_face_failed_highlight_warning">Lice je prejako osvetljeno</string>
+    <string name="zzz_face_failed_invalid_argument">Dolazna greška parametra</string>
+    <string name="zzz_face_failed_multi">Više lica</string>
+    <string name="zzz_face_failed_not_complete">Skeniranje lica je završeno</string>
+    <string name="zzz_face_failed_not_found">Lice nije detektovano</string>
+    <string name="zzz_face_failed_offset_bottom">Pomeri naviše do centra</string>
+    <string name="zzz_face_failed_offset_left">Pomeri desno do centra</string>
+    <string name="zzz_face_failed_offset_right">Pomeri levo do centra</string>
+    <string name="zzz_face_failed_offset_top">Pomeri naniže do centra</string>
+    <string name="zzz_face_failed_quality">Nije detektovano celo lice</string>
+    <string name="zzz_face_failed_rotated_down">Ugao lica: dole</string>
+    <string name="zzz_face_failed_rotated_left">Ugao lica: levo</string>
+    <string name="zzz_face_failed_rotated_right">Ugao lica: desno</string>
+    <string name="zzz_face_failed_rotated_top">Ugao lica: gore</string>
+    <string name="zzz_face_failed_scale_too_large">Držite telefon dalje</string>
+    <string name="zzz_face_failed_scale_too_small">Držite telefon bliže</string>
+    <string name="zzz_face_failed_supplier_failed">Interna greška - problem dobavljača</string>
+    <string name="zzz_face_failed_warning">Provera</string>
+    <string name="zzz_face_liveness_failed">Lice nije detektovano</string>
+    <string name="zzz_face_liveness_warning">Živi napad</string>
+    <string name="zzz_face_name_template">Lice %d</string>
+    <string name="zzz_face_not_sample_person_error">Nije isto lice, pokušajte ponovo</string>
+    <string name="zzz_face_savefeature_progress">Tok: %1$d%%</string>
+    <string name="zzz_face_savefeature_scuccess">Direktno otključavanje ekrana licem</string>
+    <string name="zzz_face_savefeature_update">Držite celo lice unutar rama</string>
+</resources>

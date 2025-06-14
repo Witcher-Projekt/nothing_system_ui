@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_and_time" formatted="false">%-k:%M:%S, %-e %b %Y</string>
+    <string name="date_time">%2$s, %1$s</string>
+    <string name="month_day_year" formatted="false">%-e %B %Y</string>
+    <string name="time_of_day" formatted="false">%-k:%M:%S</string>
+    <string name="zzz_camer_close">กล้องถ่ายรูปปิดอยู่</string>
+    <string name="zzz_camer_perview_nodata">ไม่มีข้อมูลในการแสดงตัวอย่างกล้อง</string>
+    <string name="zzz_camer_perview_timeout">หมดเวลาการลงทะเบียนใบหน้าแล้ว ลองใหม่อีกครั้ง</string>
+    <string name="zzz_camer_start_error">ไม่สามารถเรียกใช้งานกล้องถ่ายรูปได้</string>
+    <string name="zzz_camer_start_scuccess">กล้องถ่ายรูปเริ่มต้นทำงานเรียบร้อยแล้ว</string>
+    <string name="zzz_camer_start_starting">เริ่มต้นกล้อง</string>
+    <string name="zzz_face_compare_liveness_frozen">การปลดล็อคด้วยใบหน้าถูกปิดใช้งาน โปรดใช้รหัสผ่านหรือลายนิ้วมือเพื่อปลดล็อค</string>
+    <string name="zzz_face_compare_scuccess">รู้จำเรียบร้อยแล้ว</string>
+    <string name="zzz_face_failed_attr_cover_mouth">กรุณาอย่าปิดปากของคุณ</string>
+    <string name="zzz_face_failed_attr_eye_close">กรุณาอย่าหลับตา</string>
+    <string name="zzz_face_failed_attr_eye_occlusion">ปิดตา</string>
+    <string name="zzz_face_failed_attr_face_occlusion">ใบหน้าถูกปกปิด</string>
+    <string name="zzz_face_failed_attr_not_in_roi">ใบหน้าไม่ปรากฎอยู่ในกล่องที่กำหนดเอาไว้</string>
+    <string name="zzz_face_failed_bad_light">แนะนำให้ใช้ไฟสว่าง</string>
+    <string name="zzz_face_failed_blur">กรุณาอย่าขยับเร็วเกินไป</string>
+    <string name="zzz_face_failed_camera_attr_blur">ภาพถ่ายเบลอเกินไป</string>
+    <string name="zzz_face_failed_camera_steady">กรุณาอย่าขยับ</string>
+    <string name="zzz_face_failed_darklight_warning">ใบหน้าในแสงสลัว</string>
+    <string name="zzz_face_failed_half_shadow">ใบหน้าในแสงสลัว</string>
+    <string name="zzz_face_failed_highlight_warning">ใบหน้าในแสงที่สว่างเกินไป</string>
+    <string name="zzz_face_failed_invalid_argument">ข้อผิดพลาดพารามิเตอร์ขาเข้า</string>
+    <string name="zzz_face_failed_multi">หลายใบหน้า</string>
+    <string name="zzz_face_failed_not_complete">ใบหน้าที่สแกนไม่สมบูรณ์</string>
+    <string name="zzz_face_failed_not_found">ไม่สามารถตรวจจับใบหน้าได้</string>
+    <string name="zzz_face_failed_offset_bottom">เลื่อนขวาไปตรงกลาง</string>
+    <string name="zzz_face_failed_offset_left">เลื่อนขวาไปตรงกลาง</string>
+    <string name="zzz_face_failed_offset_right">เลื่อนลงไปตรงกลาง</string>
+    <string name="zzz_face_failed_offset_top">เลื่อนลงไปตรงกลาง</string>
+    <string name="zzz_face_failed_quality">ไม่สามารถตรวจจับหน้าเต็มได้</string>
+    <string name="zzz_face_failed_rotated_down">มุมใบหน้า: ล่าง</string>
+    <string name="zzz_face_failed_rotated_left">มุมใบหน้า: ซ้าย</string>
+    <string name="zzz_face_failed_rotated_right">มุมใบหน้า: ขวา</string>
+    <string name="zzz_face_failed_rotated_top">มุมใบหน้า: บน</string>
+    <string name="zzz_face_failed_scale_too_large">ถือโทรศัพท์ให้ห่างออกไป</string>
+    <string name="zzz_face_failed_scale_too_small">ถือโทรศัพท์ให้ใกล้ขึ้น</string>
+    <string name="zzz_face_failed_supplier_failed">ข้อผิดพลาดภายใน - ปัญหาเกี่ยวกับซัพพลายเออร์</string>
+    <string name="zzz_face_failed_warning">กำลังตรวจสอบ</string>
+    <string name="zzz_face_liveness_failed">ไม่สามารถตรวจจับใบหน้าได้</string>
+    <string name="zzz_face_liveness_warning">การโจมตีกลุ่มคนที่มีชีวิต</string>
+    <string name="zzz_face_name_template">ใบหน้า %d</string>
+    <string name="zzz_face_not_sample_person_error">ไม่ใช่ใบหน้าเดียวกัน โปรดลองอีกครั้ง</string>
+    <string name="zzz_face_savefeature_progress">ความคืบหน้า: %1$d%%</string>
+    <string name="zzz_face_savefeature_scuccess">หันหน้าเข้าหาหน้าจอโดยตรงเพื่อปลดล็อค</string>
+    <string name="zzz_face_savefeature_update">กรุณาทำให้ใบหน้าทั้งหมดเต็มกรอบเสมอ</string>
+</resources>

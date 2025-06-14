@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zzz_camer_close">Kamera qapalıdır</string>
+    <string name="zzz_camer_perview_nodata">Kamera baxışında heç bir verilənlər yoxdur</string>
+    <string name="zzz_camer_perview_timeout">Üz qeydiyyatının vaxtı bitdi. Yenidən cəhd et</string>
+    <string name="zzz_camer_start_error">Kamera başladıla bilmədi</string>
+    <string name="zzz_camer_start_scuccess">Kamera uğurla başladıldı</string>
+    <string name="zzz_camer_start_starting">Kamera işə salınır</string>
+    <string name="zzz_face_compare_liveness_frozen">Üzlə kilidaçma deaktivləşdirilib. Kilid açmaq üçün lütfən parol və ya barmaq izindən istifad edin</string>
+    <string name="zzz_face_compare_scuccess">Uğurla tanındı</string>
+    <string name="zzz_face_failed_attr_cover_mouth">Lütfən ağzını örtmə</string>
+    <string name="zzz_face_failed_attr_eye_close">Lütfən gözlərini bağlama</string>
+    <string name="zzz_face_failed_attr_eye_occlusion">Gözlər örtülüb</string>
+    <string name="zzz_face_failed_attr_face_occlusion">Üz örtülüb</string>
+    <string name="zzz_face_failed_attr_not_in_roi">Üz göstərilən qutuda deyil</string>
+    <string name="zzz_face_failed_bad_light">Parlaq işıq təklif edilir</string>
+    <string name="zzz_face_failed_blur">Lütfən çox sürətli hərəkət etmə</string>
+    <string name="zzz_face_failed_camera_attr_blur">Şəkil çox bulanıqdır</string>
+    <string name="zzz_face_failed_camera_steady">Lütfən yerini dəyişmə</string>
+    <string name="zzz_face_failed_darklight_warning">Zəif işıqda üz</string>
+    <string name="zzz_face_failed_half_shadow">Zəif işıqda üz</string>
+    <string name="zzz_face_failed_highlight_warning">Həddən artıq parlaq işıqda üz</string>
+    <string name="zzz_face_failed_invalid_argument">Daxil olan parametr səhvi</string>
+    <string name="zzz_face_failed_multi">Çoxsaylı üzlər</string>
+    <string name="zzz_face_failed_not_complete">Üz skanlaması natamamdır</string>
+    <string name="zzz_face_failed_not_found">Üz aşkarlanmadı</string>
+    <string name="zzz_face_failed_offset_bottom">Yuxarı mərkəzə yerini dəyiş</string>
+    <string name="zzz_face_failed_offset_left">Sağ mərkəzə yerini dəyiş</string>
+    <string name="zzz_face_failed_offset_right">Sol mərkəzə yerini dəyiş</string>
+    <string name="zzz_face_failed_offset_top">Aşağı mərkəzə yerini dəyiş</string>
+    <string name="zzz_face_failed_quality">Tam üz aşkarlanmadı</string>
+    <string name="zzz_face_failed_rotated_down">Üz bucağı: aşağı</string>
+    <string name="zzz_face_failed_rotated_left">Üz bucağı: sol</string>
+    <string name="zzz_face_failed_rotated_right">Üz bucağı: sağ</string>
+    <string name="zzz_face_failed_rotated_top">Üz bucağı: yuxarı</string>
+    <string name="zzz_face_failed_scale_too_large">Telefonu daha uzaqda saxla</string>
+    <string name="zzz_face_failed_scale_too_small">Telefonu daha yaxında saxla</string>
+    <string name="zzz_face_failed_supplier_failed">Daxili xəta - təchizatçı problemi</string>
+    <string name="zzz_face_failed_warning">Yoxlanılır</string>
+    <string name="zzz_face_liveness_failed">Üz aşkarlanmadı</string>
+    <string name="zzz_face_liveness_warning">Canlı hücum</string>
+    <string name="zzz_face_name_template">Üz %d</string>
+    <string name="zzz_face_not_sample_person_error">Eyni üz deyl, lütfən yenidən cəhd et</string>
+    <string name="zzz_face_savefeature_progress">İrəliləyiş: %1$d%%</string>
+    <string name="zzz_face_savefeature_scuccess">Kilidi açmaq üçün telefonunuzla üz-üzə dayanın</string>
+    <string name="zzz_face_savefeature_update">Lütfən üzü tam şəkildə kadr daxilində saxla</string>
+</resources>

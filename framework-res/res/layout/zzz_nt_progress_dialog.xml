@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/zzz_dialog_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="40.0sp" android:id="@id/zzz_nt_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="160.0dip" android:fontFamily="NType82-Headline" android:layout_marginStart="24.0dip" />
+        <TextView android:textSize="16.0sp" android:id="@id/zzz_nt_message" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="14.0dip" android:layout_marginBottom="8.0dip" android:text="@string/zzz_ota_upgrading_msg" android:layout_below="@id/zzz_nt_title" android:layout_marginStart="24.0dip" />
+        <ImageView android:paddingLeft="24.0dip" android:paddingRight="24.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="202.0dip" android:src="@drawable/zzz_ota_progress_00" android:layout_below="@id/zzz_nt_message" />
+        <ImageView android:id="@id/zzz_loading_bar" android:paddingLeft="24.0dip" android:paddingRight="24.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="202.0dip" android:layout_below="@id/zzz_nt_message" />
+    </RelativeLayout>
+</RelativeLayout>

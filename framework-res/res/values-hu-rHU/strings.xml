@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_and_time" formatted="false">%Y.%m.%d., %-k:%M:%S</string>
+    <string name="date_time">%1$s, %2$s</string>
+    <string name="month_day_year" formatted="false">%Y. %B %-e.</string>
+    <string name="time_of_day" formatted="false">%-k:%M:%S</string>
+    <string name="zzz_camer_close">A kamera ki van kapcsolva</string>
+    <string name="zzz_camer_perview_nodata">Nincsenek adatok a kamera előnézetben</string>
+    <string name="zzz_camer_perview_timeout">Időtúllépés az arc rögzítése során. Próbálja újra</string>
+    <string name="zzz_camer_start_error">A kamera nem indult el</string>
+    <string name="zzz_camer_start_scuccess">A kamera elindítása sikeres</string>
+    <string name="zzz_camer_start_starting">A kamera elindítása</string>
+    <string name="zzz_face_compare_liveness_frozen">Az arcfelismeréses feloldás le lett tiltva. Kérjük, a feloldáshoz használja a jelszót vagy az ujjlenyomatot</string>
+    <string name="zzz_face_compare_scuccess">Arcfelismerés megtörtént</string>
+    <string name="zzz_face_failed_attr_cover_mouth">Kérjük, ne takarja el a száját</string>
+    <string name="zzz_face_failed_attr_eye_close">"A szemei csukva vannak
+Kérjük, próbálja újra"</string>
+    <string name="zzz_face_failed_attr_eye_occlusion">A szemeket eltakarta</string>
+    <string name="zzz_face_failed_attr_face_occlusion">„Az arc fedve volt”</string>
+    <string name="zzz_face_failed_attr_not_in_roi">Az arc nincs a megadott dobozban</string>
+    <string name="zzz_face_failed_bad_light">Erős fény javasolt</string>
+    <string name="zzz_face_failed_blur">Kérjük, ne mozogjon túl gyorsan</string>
+    <string name="zzz_face_failed_camera_attr_blur">A kép túl homályos</string>
+    <string name="zzz_face_failed_camera_steady">Kérjük, ne mozogjon</string>
+    <string name="zzz_face_failed_darklight_warning">"Rossz fényviszonyok
+Menjen át egy jobban megvilágított helyre."</string>
+    <string name="zzz_face_failed_face_occlusion">Az arca fedve van</string>
+    <string name="zzz_face_failed_half_shadow">Arc félhomályban</string>
+    <string name="zzz_face_failed_highlight_warning">Arc világosban</string>
+    <string name="zzz_face_failed_invalid_argument">Bejövő paraméter hiba</string>
+    <string name="zzz_face_failed_multi">Egynél több arc észlelve</string>
+    <string name="zzz_face_failed_not_complete">A beolvasott arc nem teljes</string>
+    <string name="zzz_face_failed_not_found">"Arc nem észlelhető
+Mozgassa vissza az arcát a keretbe"</string>
+    <string name="zzz_face_failed_not_frontal">"Helytelen szög
+Kérjük, próbálja újra"</string>
+    <string name="zzz_face_failed_offset_bottom">Mozgassa fel középre</string>
+    <string name="zzz_face_failed_offset_left">Mozgassa jobbra középre</string>
+    <string name="zzz_face_failed_offset_right">Mozgassa balra középre</string>
+    <string name="zzz_face_failed_offset_top">Mozgassa lefelé középre</string>
+    <string name="zzz_face_failed_quality">Teljes arc nem észlelhető</string>
+    <string name="zzz_face_failed_rotated_down">Arc szöge: lefelé</string>
+    <string name="zzz_face_failed_rotated_left">Arc szöge: balra</string>
+    <string name="zzz_face_failed_rotated_right">Arc szöge: jobbra</string>
+    <string name="zzz_face_failed_rotated_top">Arc szöge: felfelé</string>
+    <string name="zzz_face_failed_scale_too_large">"Az arca túl közel van
+Kérjük, lépjen hátrébb és próbálja meg újra"</string>
+    <string name="zzz_face_failed_scale_too_small">Tartsa közelebb a telefont</string>
+    <string name="zzz_face_failed_supplier_failed">Belső hiba - szállítói probléma</string>
+    <string name="zzz_face_failed_warning">Ellenőrzés</string>
+    <string name="zzz_face_liveness_failed">Arc nem észlelhető</string>
+    <string name="zzz_face_liveness_warning">Élő támadás</string>
+    <string name="zzz_face_name_template">„Arc %d”</string>
+    <string name="zzz_face_not_sample_person_error">Arc nem egyezik, kérjük, próbálja újra</string>
+    <string name="zzz_face_savefeature_progress">„Előrehaladás: %1$d%%”</string>
+    <string name="zzz_face_savefeature_scuccess">Közvetlenül a képernyőre nézzen a feloldáshoz</string>
+    <string name="zzz_face_savefeature_update">Az egész arc a kereten belül legyen</string>
+    <string name="zzz_nt_telephony_notification_high_temperature_wifi_ap_warning">A hőmérséklet túl magas. A Wi-Fi-hotspot %1$d másodperc múlva kikapcsol.</string>
+    <string name="zzz_nt_telephony_turn_off_now">Kikapcsolás most</string>
+    <string name="zzz_ota_upgrading_msg">Ez eltarthat néhány percig</string>
+    <string name="zzz_ota_upgrading_title">FRISSÍTÉS...</string>
+</resources>

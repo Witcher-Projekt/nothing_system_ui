@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zzz_camer_close">Камера өшірілген</string>
+    <string name="zzz_camer_perview_nodata">Камераның қарап шығу экранында дерек жоқ</string>
+    <string name="zzz_camer_perview_timeout">Бет-әлпетті тіркеу мерзімі бітті. Әрекетті қайталаңыз.</string>
+    <string name="zzz_camer_start_error">Камера іске қосылмады</string>
+    <string name="zzz_camer_start_scuccess">Камера сәтті түрде іске қосылды</string>
+    <string name="zzz_camer_start_starting">Камера іске қосылуда</string>
+    <string name="zzz_face_compare_liveness_frozen">Бет-әлпетпен құлыпты ашу функциясы ажыратылған. Құлыпты ашу үшін құпия сөзді немесе саусақ ізін қолданыңыз</string>
+    <string name="zzz_face_compare_scuccess">Сәтті түрде танылды</string>
+    <string name="zzz_face_failed_attr_cover_mouth">Ауызыңызды жаппаңыз</string>
+    <string name="zzz_face_failed_attr_eye_close">Көздеріңізді жұмбаңыз</string>
+    <string name="zzz_face_failed_attr_eye_occlusion">Көздер жабылып тұрды</string>
+    <string name="zzz_face_failed_attr_face_occlusion">Бет жабылған</string>
+    <string name="zzz_face_failed_attr_not_in_roi">Бет-әлпет белгіленген жақтауда емес</string>
+    <string name="zzz_face_failed_bad_light">Жарықтығы жоғары жарық болғаны жөн</string>
+    <string name="zzz_face_failed_blur">Тым жылдам қозғалмаңыз</string>
+    <string name="zzz_face_failed_camera_attr_blur">Сурет тым бұлыңғыр</string>
+    <string name="zzz_face_failed_camera_steady">Қозғалмаңыз</string>
+    <string name="zzz_face_failed_darklight_warning">Бет-әлпет күңгірт жарықта тұр</string>
+    <string name="zzz_face_failed_half_shadow">Бет-әлпет күңгірт жарықта тұр</string>
+    <string name="zzz_face_failed_highlight_warning">Бет-әлпет жарықтығы шамадан тыс жарықта тұр</string>
+    <string name="zzz_face_failed_invalid_argument">Кіріс параметр қатесі</string>
+    <string name="zzz_face_failed_multi">Бірнеше бет-әлпет</string>
+    <string name="zzz_face_failed_not_complete">Бет-әлпет толық сканерленген жоқ</string>
+    <string name="zzz_face_failed_not_found">Бет-әлпет анықталған жоқ</string>
+    <string name="zzz_face_failed_offset_bottom">Ортаға келтіру үшін жоғары жылжытыңыз</string>
+    <string name="zzz_face_failed_offset_left">Ортаға келтіру үшін оңға жылжытыңыз</string>
+    <string name="zzz_face_failed_offset_right">Ортаға келтіру үшін солға жылжытыңыз</string>
+    <string name="zzz_face_failed_offset_top">Ортаға келтіру үшін төмен жылжытыңыз</string>
+    <string name="zzz_face_failed_quality">Бет-әлпет толығымен анықталған жоқ</string>
+    <string name="zzz_face_failed_rotated_down">Бет-әлпет бұрышы: төмен қарай</string>
+    <string name="zzz_face_failed_rotated_left">Бет-әлпет бұрышы: солға қарай</string>
+    <string name="zzz_face_failed_rotated_right">Бет-әлпет бұрышы: оңға қарай</string>
+    <string name="zzz_face_failed_rotated_top">Бет-әлпет бұрышы: жоғары қарай</string>
+    <string name="zzz_face_failed_scale_too_large">Телефонды алысырақ ұстаңыз</string>
+    <string name="zzz_face_failed_scale_too_small">Телефонды жақынырақ ұстаңыз</string>
+    <string name="zzz_face_failed_supplier_failed">Ішкі қате - жабдықтаушыға қатысты мәселе</string>
+    <string name="zzz_face_failed_warning">Тексерілуде</string>
+    <string name="zzz_face_liveness_failed">Бет-әлпет анықталған жоқ</string>
+    <string name="zzz_face_liveness_warning">Жанды шабуыл</string>
+    <string name="zzz_face_name_template">Бет-әлпет %d</string>
+    <string name="zzz_face_not_sample_person_error">Бет-әлпет бірдей емес, әрекетті қайталаңыз</string>
+    <string name="zzz_face_savefeature_progress">Орындалу барысы: %1$d%%</string>
+    <string name="zzz_face_savefeature_scuccess">Құлпын ашу үшін экранға тікелей қараңыз</string>
+    <string name="zzz_face_savefeature_update">Бет-әлпетіңізді толығымен кадрға сыйдырып ұстаңыз</string>
+</resources>

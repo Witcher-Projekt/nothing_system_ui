@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zzz_camer_close">Kameraet er av</string>
+    <string name="zzz_camer_perview_nodata">Ingen data i kameraets forhåndsvisning</string>
+    <string name="zzz_camer_perview_timeout">Ansiktsregistreringen ble tidsavbrutt. Prøv på nytt</string>
+    <string name="zzz_camer_start_error">Kameraet kunne ikke startes</string>
+    <string name="zzz_camer_start_scuccess">Kameraet er startet</string>
+    <string name="zzz_camer_start_starting">Starter kameraet</string>
+    <string name="zzz_face_compare_liveness_frozen">Ansiktsopplåsing er deaktivert. Bruk passord eller fingeravtrykk til å låse opp</string>
+    <string name="zzz_face_compare_scuccess">Ansiktsgjenkjenningen er ferdig</string>
+    <string name="zzz_face_failed_attr_cover_mouth">Ikke dekk til munnen</string>
+    <string name="zzz_face_failed_attr_eye_close">"Øynene er lukket
+Prøv på nytt"</string>
+    <string name="zzz_face_failed_attr_eye_occlusion">Øynene var dekket</string>
+    <string name="zzz_face_failed_attr_face_occlusion">Ansiktet var dekket</string>
+    <string name="zzz_face_failed_attr_not_in_roi">Ansiktet er ikke innenfor rammen</string>
+    <string name="zzz_face_failed_bad_light">Finn et sted med bedre lys</string>
+    <string name="zzz_face_failed_blur">Ikke beveg deg for raskt</string>
+    <string name="zzz_face_failed_camera_attr_blur">Bildet er for uskarpt</string>
+    <string name="zzz_face_failed_camera_steady">Hold deg helt i ro</string>
+    <string name="zzz_face_failed_darklight_warning">"Dårlige lysforhold
+Gå til et sted med bedre lys."</string>
+    <string name="zzz_face_failed_face_occlusion">Ansiktet er dekket</string>
+    <string name="zzz_face_failed_half_shadow">Lyset i ansiktet er for svakt</string>
+    <string name="zzz_face_failed_highlight_warning">Lyset i ansiktet er for sterkt</string>
+    <string name="zzz_face_failed_invalid_argument">Feil ved innkommende parameter</string>
+    <string name="zzz_face_failed_multi">Mer enn ett ansikt ble oppdaget</string>
+    <string name="zzz_face_failed_not_complete">Ansiktsskanningen er ufullstendig</string>
+    <string name="zzz_face_failed_not_found">"Oppdaget ikke noe ansikt
+Pass på at ansiktet er innenfor rammen"</string>
+    <string name="zzz_face_failed_not_frontal">"Feil vinkel
+Prøv på nytt"</string>
+    <string name="zzz_face_failed_offset_bottom">Beveg oppover for å sentrere</string>
+    <string name="zzz_face_failed_offset_left">Beveg mot høyre for å sentrere</string>
+    <string name="zzz_face_failed_offset_right">Beveg mot venstre for å sentrere</string>
+    <string name="zzz_face_failed_offset_top">Beveg nedover for å sentrere</string>
+    <string name="zzz_face_failed_quality">Oppdaget ikke hele ansiktet</string>
+    <string name="zzz_face_failed_rotated_down">Ansiktsvinkel: ned</string>
+    <string name="zzz_face_failed_rotated_left">Ansiktsvinkel: venstre</string>
+    <string name="zzz_face_failed_rotated_right">Ansiktsvinkel: høyre</string>
+    <string name="zzz_face_failed_rotated_top">Ansiktsvinkel: opp</string>
+    <string name="zzz_face_failed_scale_too_large">"Ansiktet er for nært
+Øk avstanden og prøv på nytt"</string>
+    <string name="zzz_face_failed_scale_too_small">Hold telefonen nærmere</string>
+    <string name="zzz_face_failed_supplier_failed">Intern feil: leverandørproblem</string>
+    <string name="zzz_face_failed_warning">Sjekker</string>
+    <string name="zzz_face_liveness_failed">Oppdaget ikke noe ansikt</string>
+    <string name="zzz_face_liveness_warning">For mye bevegelse</string>
+    <string name="zzz_face_name_template">Ansikt %d</string>
+    <string name="zzz_face_not_sample_person_error">Ikke samme ansikt, prøv på nytt</string>
+    <string name="zzz_face_savefeature_progress">Fremdrift: %1$d%%</string>
+    <string name="zzz_face_savefeature_scuccess">Ansiktet må være rett foran skjermen for å låse opp</string>
+    <string name="zzz_face_savefeature_update">Hold hele ansiktet innenfor rammen</string>
+</resources>

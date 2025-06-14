@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_and_time" formatted="false">%-k.%M.%S %-e.%-m.%Y</string>
+    <string name="date_time">%2$s %1$s</string>
+    <string name="month_day_year" formatted="false">%-e. %B %Y</string>
+    <string name="time_of_day" formatted="false">%-k.%M.%S</string>
+    <string name="zzz_camer_close">Kamera on poissa päältä</string>
+    <string name="zzz_camer_perview_nodata">Ei tietoja kameran esikatselussa</string>
+    <string name="zzz_camer_perview_timeout">Kasvojen kirjaus aikakatkaistiin. Yritä uudelleen</string>
+    <string name="zzz_camer_start_error">Kameran käynnistyminen epäonnistui</string>
+    <string name="zzz_camer_start_scuccess">Kameran käynnistys onnistui</string>
+    <string name="zzz_camer_start_starting">Käynnistetään kameraa</string>
+    <string name="zzz_face_compare_liveness_frozen">Lukituksen avaaminen kasvoilla on poistettu käytöstä. Käytä salasanaa tai sormenjälkeä lukituksen avaamiseen</string>
+    <string name="zzz_face_compare_scuccess">Tunnistus onnistui</string>
+    <string name="zzz_face_failed_attr_cover_mouth">Älä peitä suutasi</string>
+    <string name="zzz_face_failed_attr_eye_close">Älä sulje silmiäsi</string>
+    <string name="zzz_face_failed_attr_eye_occlusion">Silmät oli peitetty</string>
+    <string name="zzz_face_failed_attr_face_occlusion">Kasvot oli peitetty</string>
+    <string name="zzz_face_failed_attr_not_in_roi">Kasvot eivät ole määritetyssä ruudussa</string>
+    <string name="zzz_face_failed_bad_light">Kirkas valaistus on suositeltavaa</string>
+    <string name="zzz_face_failed_blur">Älä liiku liian nopeasti</string>
+    <string name="zzz_face_failed_camera_attr_blur">Kuva on liian sumea</string>
+    <string name="zzz_face_failed_camera_steady">Älä liiku</string>
+    <string name="zzz_face_failed_darklight_warning">Kasvot himmeässä valaistuksessa</string>
+    <string name="zzz_face_failed_half_shadow">Kasvot himmeässä valaistuksessa</string>
+    <string name="zzz_face_failed_highlight_warning">Kasvot kirkkaassa valaistuksessa</string>
+    <string name="zzz_face_failed_invalid_argument">Tulevan parametrivirhe</string>
+    <string name="zzz_face_failed_multi">Useat kasvot</string>
+    <string name="zzz_face_failed_not_complete">Kasvojen skannaus on puutteellinen</string>
+    <string name="zzz_face_failed_not_found">Kasvoja ei havaittu</string>
+    <string name="zzz_face_failed_offset_bottom">Keskitä liikuttamalla ylös</string>
+    <string name="zzz_face_failed_offset_left">Keskitä liikuttamalla oikealle</string>
+    <string name="zzz_face_failed_offset_right">Keskitä liikuttamalla vasemmalle</string>
+    <string name="zzz_face_failed_offset_top">Keskitä liikuttamalla alas</string>
+    <string name="zzz_face_failed_quality">Kasvoja ei havaittu kokonaan</string>
+    <string name="zzz_face_failed_rotated_down">Kasvojen kulma: alas</string>
+    <string name="zzz_face_failed_rotated_left">Kasvojen kulma: vasen</string>
+    <string name="zzz_face_failed_rotated_right">Kasvojen kulma: oikea</string>
+    <string name="zzz_face_failed_rotated_top">Kasvojen kulma: ylös</string>
+    <string name="zzz_face_failed_scale_too_large">Pidä puhelinta kauempana</string>
+    <string name="zzz_face_failed_scale_too_small">Pidä puhelinta lähempänä</string>
+    <string name="zzz_face_failed_supplier_failed">Sisäinen virhe – toimittajaongelma</string>
+    <string name="zzz_face_failed_warning">Tarkistetaan</string>
+    <string name="zzz_face_liveness_failed">Kasvoja ei havaittu</string>
+    <string name="zzz_face_liveness_warning">Elävä hyökkäys</string>
+    <string name="zzz_face_name_template">Kasvot %d</string>
+    <string name="zzz_face_not_sample_person_error">Ei samat kasvot, yritä uudelleen</string>
+    <string name="zzz_face_savefeature_progress">Edistyminen: %1$d%%</string>
+    <string name="zzz_face_savefeature_scuccess">Avaa lukitus kohdistamalla kasvot suoraan näyttöön</string>
+    <string name="zzz_face_savefeature_update">Pidä kasvot kokonaan kehyksen sisällä</string>
+</resources>

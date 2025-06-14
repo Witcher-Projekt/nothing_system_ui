@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zzz_camer_close">Kamera dimatikan</string>
+    <string name="zzz_camer_perview_nodata">Tiada data dalam pratonton kamera</string>
+    <string name="zzz_camer_perview_timeout">Pendaftaran wajah tamat masa. Cuba lagi</string>
+    <string name="zzz_camer_start_error">Kamera gagal dimulakan</string>
+    <string name="zzz_camer_start_scuccess">Kamera berjaya dimulakan</string>
+    <string name="zzz_camer_start_starting">Memulakan kamera</string>
+    <string name="zzz_face_compare_liveness_frozen">Pembukaan kunci wajah dinyahdayakan. Sila gunakan kata laluan atau cap jari untuk membuka kunci</string>
+    <string name="zzz_face_compare_scuccess">Berjaya dicam</string>
+    <string name="zzz_face_failed_attr_cover_mouth">Sila jangan tutup mulut anda</string>
+    <string name="zzz_face_failed_attr_eye_close">Sila jangan tutup mata anda</string>
+    <string name="zzz_face_failed_attr_eye_occlusion">Mata ditutup</string>
+    <string name="zzz_face_failed_attr_face_occlusion">Muka ditutup</string>
+    <string name="zzz_face_failed_attr_not_in_roi">Wajah tidak berada dalam kotak yang ditentukan</string>
+    <string name="zzz_face_failed_bad_light">Cahaya terang disyorkan</string>
+    <string name="zzz_face_failed_blur">Sila jangan bergerak terlalu cepat</string>
+    <string name="zzz_face_failed_camera_attr_blur">Gambar terlalu kabur</string>
+    <string name="zzz_face_failed_camera_steady">Sila jangan bergerak</string>
+    <string name="zzz_face_failed_darklight_warning">Wajah dalam cahaya suram</string>
+    <string name="zzz_face_failed_half_shadow">Wajah dalam cahaya suram</string>
+    <string name="zzz_face_failed_highlight_warning">Wajah dalam cahaya terlebih cerah</string>
+    <string name="zzz_face_failed_invalid_argument">Ralat parameter masuk</string>
+    <string name="zzz_face_failed_multi">Berbilang wajah</string>
+    <string name="zzz_face_failed_not_complete">Wajah yang diimbas tidak lengkap</string>
+    <string name="zzz_face_failed_not_found">Wajah tidak dikesan</string>
+    <string name="zzz_face_failed_offset_bottom">Gerak ke atas ke tengah</string>
+    <string name="zzz_face_failed_offset_left">Gerak ke kanan ke tengah</string>
+    <string name="zzz_face_failed_offset_right">Gerak ke kiri ke tengah</string>
+    <string name="zzz_face_failed_offset_top">Gerak ke bawah ke tengah</string>
+    <string name="zzz_face_failed_quality">Wajah penuh tidak dikesan</string>
+    <string name="zzz_face_failed_rotated_down">Sudut wajah: bawah</string>
+    <string name="zzz_face_failed_rotated_left">Sudut wajah: kiri</string>
+    <string name="zzz_face_failed_rotated_right">Sudut wajah: kanan</string>
+    <string name="zzz_face_failed_rotated_top">Sudut wajah: atas</string>
+    <string name="zzz_face_failed_scale_too_large">Pegang telefon lebih jauh</string>
+    <string name="zzz_face_failed_scale_too_small">Pegang telefon lebih dekat</string>
+    <string name="zzz_face_failed_supplier_failed">Ralat dalaman - masalah pembekal</string>
+    <string name="zzz_face_failed_warning">Menyemak</string>
+    <string name="zzz_face_liveness_failed">Wajah tidak dikesan</string>
+    <string name="zzz_face_liveness_warning">Serangan hidup</string>
+    <string name="zzz_face_name_template">Wajah %d</string>
+    <string name="zzz_face_not_sample_person_error">Bukan wajah yang sama, sila cuba lagi</string>
+    <string name="zzz_face_savefeature_progress">Kemajuan: %1$d%%</string>
+    <string name="zzz_face_savefeature_scuccess">Hadapi skrin secara langsung untuk membuka kunci</string>
+    <string name="zzz_face_savefeature_update">Sila kekalkan wajah penuh di dalam bingkai</string>
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zzz_camer_close">Камера је искључена</string>
+    <string name="zzz_camer_perview_nodata">Нема података у пријегледу камере</string>
+    <string name="zzz_camer_perview_timeout">Вријеме за упис лица је истекло. Покушајте поново</string>
+    <string name="zzz_camer_start_error">Камера се није покренула</string>
+    <string name="zzz_camer_start_scuccess">Камера се Успјешно покренула</string>
+    <string name="zzz_camer_start_starting">Покретање камере</string>
+    <string name="zzz_enable5G_notification_message">Ваша SIM картица %s можда не подржава 5G мрежу. Да бисте искусили веће брзине мреже, контактирајте свог оператера да бисте активирали 5G услугу.</string>
+    <string name="zzz_enable5G_notification_title">Активне 5G услуге</string>
+    <string name="zzz_face_compare_liveness_frozen">Откључавање лицем је деактивирано. Користите лозинку или отисак прста да бисте откључали</string>
+    <string name="zzz_face_compare_scuccess">Препознавање лица је готово</string>
+    <string name="zzz_face_error_camera_be_occupied">Предња камера је заузета и не може се користити за откључавање изразом лица.</string>
+    <string name="zzz_face_failed_attr_cover_mouth">Не покривајте уста</string>
+    <string name="zzz_face_failed_attr_eye_close">"Очи су затворене
+Покушајте поново"</string>
+    <string name="zzz_face_failed_attr_eye_occlusion">Очи су прекривене</string>
+    <string name="zzz_face_failed_attr_face_occlusion">„Лице је било покривено“</string>
+    <string name="zzz_face_failed_attr_not_in_roi">Лице није у назначеном оквиру</string>
+    <string name="zzz_face_failed_bad_light">Предлаже се јаче свјетло</string>
+    <string name="zzz_face_failed_blur">Не помјерајте се пребрзо</string>
+    <string name="zzz_face_failed_camera_attr_blur">Слика је превише мутна</string>
+    <string name="zzz_face_failed_camera_steady">Не помјерајте се</string>
+    <string name="zzz_face_failed_darklight_warning">"Лоше освјетљење
+Пређите негдје гдје је свјетло боље."</string>
+    <string name="zzz_face_failed_face_occlusion">Лице је покривено</string>
+    <string name="zzz_face_failed_half_shadow">Лице је на пригушеном свјетлу</string>
+    <string name="zzz_face_failed_highlight_warning">Лице је на прејаком свјетлу</string>
+    <string name="zzz_face_failed_invalid_argument">Грешка долазног параметра</string>
+    <string name="zzz_face_failed_multi">Откривено је више лица</string>
+    <string name="zzz_face_failed_not_complete">Скенирање лица није потпуно</string>
+    <string name="zzz_face_failed_not_found">"Није откривено ниједно лице
+Помјерите лице у кадар"</string>
+    <string name="zzz_face_failed_not_frontal">"Погрешан угао
+Покушајте поново"</string>
+    <string name="zzz_face_failed_offset_bottom">Помјерите се нагоре према средини</string>
+    <string name="zzz_face_failed_offset_left">Помјерите се надесно према средини</string>
+    <string name="zzz_face_failed_offset_right">Помјерите се налијево према средини</string>
+    <string name="zzz_face_failed_offset_top">Помјерите се надоле према средини</string>
+    <string name="zzz_face_failed_quality">Цијело лице није откривено</string>
+    <string name="zzz_face_failed_rotated_down">Угао лица: надоле</string>
+    <string name="zzz_face_failed_rotated_left">Угао лица: налијево</string>
+    <string name="zzz_face_failed_rotated_right">Угао лица: надесно</string>
+    <string name="zzz_face_failed_rotated_top">Угао лица: нагоре</string>
+    <string name="zzz_face_failed_scale_too_large">"Лице је преблизу
+Помјерите се уназад и покушајте поново"</string>
+    <string name="zzz_face_failed_scale_too_small">Држите телефон ближе</string>
+    <string name="zzz_face_failed_supplier_failed">Унутрашња грешка – проблем добављача</string>
+    <string name="zzz_face_failed_warning">Провјеравање</string>
+    <string name="zzz_face_liveness_failed">Лице није откривено</string>
+    <string name="zzz_face_liveness_warning">Живи напад</string>
+    <string name="zzz_face_name_template">„Лице %d“</string>
+    <string name="zzz_face_not_sample_person_error">Није исто лице, покушајте поново</string>
+    <string name="zzz_face_savefeature_progress">„Напредак: %1$d%%“</string>
+    <string name="zzz_face_savefeature_scuccess">Гледајте директно у екран за откључавање</string>
+    <string name="zzz_face_savefeature_update">Држите цијело лице у кадру</string>
+    <string name="zzz_nt_pinned_window_hint_msg">Дуго притисните и додирните икону за затварање да бисте затворили искачући прозор</string>
+</resources>

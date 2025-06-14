@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.server.wm.AnchorMessageLayout android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="44.0dip" android:zzz_anchor_height="8.484985dip" android:zzz_anchor_message="@string/zzz_nt_pinned_window_hint_msg" android:zzz_anchor_width="16.96997dip" android:zzz_circle_edge="true" android:zzz_layout_color="#ffffffff"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

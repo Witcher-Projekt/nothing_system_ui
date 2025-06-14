@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zzz_camer_close">கேமரா நிறுத்தப்பட்டுள்ளது</string>
+    <string name="zzz_camer_perview_nodata">கேமரா மாதிரிக்காட்சியில் தரவு இல்லை</string>
+    <string name="zzz_camer_perview_timeout">முகப் பதிவு நேரம் முடிந்தது. மீண்டும் முயற்சி செய்யவும்</string>
+    <string name="zzz_camer_start_error">கேமராவை துவக்க முடியவில்லை</string>
+    <string name="zzz_camer_start_scuccess">கேமரா வெற்றிகரமாக துவக்கப்பட்டது</string>
+    <string name="zzz_camer_start_starting">கேமராவைத் தொடங்குகின்து</string>
+    <string name="zzz_face_compare_liveness_frozen">முகம் பூட்டுநீக்குதல் முடக்கப்பட்டுள்ளது. பூட்டுநீக்க கடவுச்சொல் அல்லது கைரேகையைப் பயன்படுத்தவும்</string>
+    <string name="zzz_face_compare_scuccess">வெற்றிகரமாக அங்கீகரிக்கப்பட்டது</string>
+    <string name="zzz_face_failed_attr_cover_mouth">தயவுசெய்து உங்கள் வாயை மூடாதீர்கள்</string>
+    <string name="zzz_face_failed_attr_eye_close">தயவுசெய்து உங்கள் கண்களை மூடவேண்டாம்</string>
+    <string name="zzz_face_failed_attr_eye_occlusion">கண்கள் மூடப்பட்டன</string>
+    <string name="zzz_face_failed_attr_face_occlusion">முகம் மறைக்கப்பட்டது</string>
+    <string name="zzz_face_failed_attr_not_in_roi">முகமானது குறிப்பிடப்பட்ட பெட்டியில் இல்லை</string>
+    <string name="zzz_face_failed_bad_light">பிரகாசமான லைட் பரிந்துரைக்கப்படுகிறது</string>
+    <string name="zzz_face_failed_blur">தயவுசெய்து மிக விரைவாக நகராதீர்கள்</string>
+    <string name="zzz_face_failed_camera_attr_blur">படம் மிகவும் மங்கலாக இருக்கிறது</string>
+    <string name="zzz_face_failed_camera_steady">தயவுசெய்து நகராதீர்கள்</string>
+    <string name="zzz_face_failed_darklight_warning">மங்கலான வெளிச்சத்தில் முகம்</string>
+    <string name="zzz_face_failed_half_shadow">மங்கலான வெளிச்சத்தில் முகம்</string>
+    <string name="zzz_face_failed_highlight_warning">அதிக பிரகாசமான வெளிச்சத்தில் முகம்</string>
+    <string name="zzz_face_failed_invalid_argument">உள்வரும் அளவுரு பிழை</string>
+    <string name="zzz_face_failed_multi">பல முகங்கள்</string>
+    <string name="zzz_face_failed_not_complete">முகம் ஸ்கேன் செய்வது நிறைவடையவில்லை</string>
+    <string name="zzz_face_failed_not_found">முகம் கண்டறியப்படவில்லை</string>
+    <string name="zzz_face_failed_offset_bottom">மையத்துக்கு நகர்த்தவும்</string>
+    <string name="zzz_face_failed_offset_left">வலதுபக்கமாக மையத்துக்கு நகர்த்தவும்</string>
+    <string name="zzz_face_failed_offset_right">இடதுபக்கமாக மையத்துக்கு நகர்த்தவும்</string>
+    <string name="zzz_face_failed_offset_top">தரவைக் கீழே மையத்துக்கு நகர்த்தவும்</string>
+    <string name="zzz_face_failed_quality">முழு முகம் கண்டறியப்படவில்லை</string>
+    <string name="zzz_face_failed_rotated_down">முகக் கோணம்: கீழே</string>
+    <string name="zzz_face_failed_rotated_left">முகக் கோணம்: இடது</string>
+    <string name="zzz_face_failed_rotated_right">முகக் கோணம்: வலது</string>
+    <string name="zzz_face_failed_rotated_top">முகக் கோணம்: மேலே</string>
+    <string name="zzz_face_failed_scale_too_large">ஃபோனைத் தள்ளிப் பிடிக்கவும்</string>
+    <string name="zzz_face_failed_scale_too_small">போனை அருகில் பிடிக்கவும்</string>
+    <string name="zzz_face_failed_supplier_failed">அகப் பிழை – சப்ளையர் பிரச்சனை</string>
+    <string name="zzz_face_failed_warning">சோதிக்கிறது</string>
+    <string name="zzz_face_liveness_failed">முகம் கண்டறியப்படவில்லை</string>
+    <string name="zzz_face_liveness_warning">வாழும் தாக்குதல்</string>
+    <string name="zzz_face_name_template">முகம் %d</string>
+    <string name="zzz_face_not_sample_person_error">முகம் ஒத்திருக்கவில்லை, தயவுசெய்து மறுபடி முயற்சிக்கவும்</string>
+    <string name="zzz_face_savefeature_progress">போக்கு: %1$d%%</string>
+    <string name="zzz_face_savefeature_scuccess">பூட்டுநீக்க திரையை நேரடியாக பார்க்கவும்</string>
+    <string name="zzz_face_savefeature_update">தயவுசெய்து மொத்த முகத்தையும் சட்டகத்திற்குள் வைக்கவும்</string>
+</resources>

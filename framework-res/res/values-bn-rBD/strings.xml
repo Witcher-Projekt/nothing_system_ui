@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zzz_camer_close">ক্যামেরা বন্ধ</string>
+    <string name="zzz_camer_perview_nodata">ক্যামেরা প্রিভিউর কোন ডেটা নেই</string>
+    <string name="zzz_camer_perview_timeout">মুখের নিবন্ধনের সময় শেষ হয়েছে| আবার চেষ্টা করুন</string>
+    <string name="zzz_camer_start_error">ক্যামেরা শুরু হতে ব্যর্থ</string>
+    <string name="zzz_camer_start_scuccess">ক্যামেরা সফলভাবে শুরু হয়েছে</string>
+    <string name="zzz_camer_start_starting">ক্যামেরা শুরু হচ্ছে</string>
+    <string name="zzz_face_compare_liveness_frozen">মুখ দ্বারা আনলক করা অক্ষম করা আছে| পাসওয়ার্ড বা আঙ্গুলের ছাপ ব্যবহার করুন আনলক করার জন্য</string>
+    <string name="zzz_face_compare_scuccess">সাফল্যের সাথে চেনা গিয়েছে</string>
+    <string name="zzz_face_failed_attr_cover_mouth">দয়া করে আপনার মুখটা ঢেকে দেবেন না</string>
+    <string name="zzz_face_failed_attr_eye_close">অনুগ্রহ করে আপনার চোখ বন্ধ করবেন না</string>
+    <string name="zzz_face_failed_attr_eye_occlusion">চোখা ঢাকা ছিল</string>
+    <string name="zzz_face_failed_attr_face_occlusion">মুখ ঢাকা ছিল</string>
+    <string name="zzz_face_failed_attr_not_in_roi">ফেস নির্দিষ্ট জায়গায় নেই</string>
+    <string name="zzz_face_failed_bad_light">উজ্জ্বল আলোর পরামর্শ দেওয়া হচ্ছে</string>
+    <string name="zzz_face_failed_blur">অনুগ্রহ করে খুব দ্রুত নড়বেন না</string>
+    <string name="zzz_face_failed_camera_attr_blur">ছবিটি খুব আবছা</string>
+    <string name="zzz_face_failed_camera_steady">অনুগ্রহ করে নড়বেন না</string>
+    <string name="zzz_face_failed_darklight_warning">আবছা আলোয় মুখ</string>
+    <string name="zzz_face_failed_half_shadow">আবছা আলোয় মুখ</string>
+    <string name="zzz_face_failed_highlight_warning">উজ্জ্বল আলোয় মুখ</string>
+    <string name="zzz_face_failed_invalid_argument">ইনকামিং প্যারামিটার ত্রুটি</string>
+    <string name="zzz_face_failed_multi">একাধিক মুখ</string>
+    <string name="zzz_face_failed_not_complete">মুখের স্ক্যান অসম্পূর্ণ</string>
+    <string name="zzz_face_failed_not_found">মুখ সনাক্ত করা যায়নি</string>
+    <string name="zzz_face_failed_offset_bottom">কেন্দ্র অবধি সরান</string>
+    <string name="zzz_face_failed_offset_left">ডান থেকে কেন্দ্রে সরান</string>
+    <string name="zzz_face_failed_offset_right">বাম থেকে কেন্দ্রে সরান</string>
+    <string name="zzz_face_failed_offset_top">কেন্দ্রে সরান</string>
+    <string name="zzz_face_failed_quality">পুরো মুখমণ্ডল শনাক্ত করা যাচ্ছে না</string>
+    <string name="zzz_face_failed_rotated_down">মুখের অ্যান্গেল: নিচে</string>
+    <string name="zzz_face_failed_rotated_left">মুখের অ্যান্গেল: বাঁদিকে</string>
+    <string name="zzz_face_failed_rotated_right">মুখের অ্যান্গেল: ডানদিকে</string>
+    <string name="zzz_face_failed_rotated_top">মুখের অ্যান্গেল: উপরে</string>
+    <string name="zzz_face_failed_scale_too_large">ফোনটিকে দূরে ধরে রাখুন</string>
+    <string name="zzz_face_failed_scale_too_small">ফোনটিকে কাছে ধরে রাখুন</string>
+    <string name="zzz_face_failed_supplier_failed">অভ্যন্তরীণ ত্রুটি - সরবরাহকারী সমস্যা</string>
+    <string name="zzz_face_failed_warning">পরীক্ষা করা হচ্ছে</string>
+    <string name="zzz_face_liveness_failed">মুখ সনাক্ত করা যায়নি</string>
+    <string name="zzz_face_liveness_warning">লিভিং অ্যাটাক</string>
+    <string name="zzz_face_name_template">মুখ %d</string>
+    <string name="zzz_face_not_sample_person_error">একই মুখমণ্ডল নয়, অনুগ্রহ করে আবার চেষ্টা করুন</string>
+    <string name="zzz_face_savefeature_progress">অগ্রগতি: %1$d%%</string>
+    <string name="zzz_face_savefeature_scuccess">আনলক করতে সরাসরি স্ক্রিনের দিকে মুখ করুন</string>
+    <string name="zzz_face_savefeature_update">অনুগ্রহ করে ফ্রেমের মধ্যে সম্পূর্ণ মুখ রাখুন</string>
+</resources>

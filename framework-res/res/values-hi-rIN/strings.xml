@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_and_time" formatted="false">%-l:%M:%S %p %d-%m-%Y</string>
+    <string name="date_time">%2$s %1$s</string>
+    <string name="month_day_year" formatted="false">%-e %B %Y</string>
+    <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
+    <string name="zzz_camer_close">कैमरा बंद है</string>
+    <string name="zzz_camer_perview_nodata">कैमरा पूर्वावलोकन में कोई डेटा नहीं</string>
+    <string name="zzz_camer_perview_timeout">चेहरें कें पंजीकरण का समय समाप्त हुआ। पुनः प्रयास करें</string>
+    <string name="zzz_camer_start_error">कैमरा शुरू करने में विफल रहा</string>
+    <string name="zzz_camer_start_scuccess">कैमरा सफलतापूर्वक शुरू हुआ</string>
+    <string name="zzz_camer_start_starting">कैमरा शुरू कर रहा है</string>
+    <string name="zzz_face_compare_liveness_frozen">फेस अनलॉकिंग अक्षम किया गया था। कृपया अनलॉक करने के लिए पासवर्ड या फ़िंगरप्रिंट का उपयोग करें</string>
+    <string name="zzz_face_compare_scuccess">सफलतापूर्वक पहचान लिया गया</string>
+    <string name="zzz_face_failed_attr_cover_mouth">कृपया अपने मुंह को कवर न करें</string>
+    <string name="zzz_face_failed_attr_eye_close">कृपया अपनी आँखें बंद न करें</string>
+    <string name="zzz_face_failed_attr_eye_occlusion">आंखों को कवर किया गया था</string>
+    <string name="zzz_face_failed_attr_face_occlusion">चेहरा कवर किया गया था</string>
+    <string name="zzz_face_failed_attr_not_in_roi">चेहरा निर्दिष्ट बॉक्स में नहीं है</string>
+    <string name="zzz_face_failed_bad_light">उज्ज्वल प्रकाश का सुझाव दिया है</string>
+    <string name="zzz_face_failed_blur">कृपया तेज़ी से स्थानांतरित न करें</string>
+    <string name="zzz_face_failed_camera_attr_blur">चित्र बहुत धुंधला है</string>
+    <string name="zzz_face_failed_camera_steady">कृपया स्थानांतरित न करें</string>
+    <string name="zzz_face_failed_darklight_warning">मंद प्रकाश में चेहरा</string>
+    <string name="zzz_face_failed_half_shadow">मंद प्रकाश में चेहरा</string>
+    <string name="zzz_face_failed_highlight_warning">अधिक उज्ज्वल प्रकाश में चेहरा</string>
+    <string name="zzz_face_failed_invalid_argument">आने वाली पैरामीटर में त्रुटि</string>
+    <string name="zzz_face_failed_multi">एकाधिक चेहरे</string>
+    <string name="zzz_face_failed_not_complete">स्कैन किया चेहरा अधूरा है</string>
+    <string name="zzz_face_failed_not_found">चेहरा नहीं मिला</string>
+    <string name="zzz_face_failed_offset_bottom">केंद्र से ऊपर ले जाएं</string>
+    <string name="zzz_face_failed_offset_left">केंद्र से दाएं ले जाएं</string>
+    <string name="zzz_face_failed_offset_right">केंद्र से बाएं ले जाएं</string>
+    <string name="zzz_face_failed_offset_top">केंद्र के लिए नीचे ले जाएँ</string>
+    <string name="zzz_face_failed_quality">पूरा चेहरा नहीं मिला</string>
+    <string name="zzz_face_failed_rotated_down">चेहरें का कोण: नीचे</string>
+    <string name="zzz_face_failed_rotated_left">चेहरें का कोण: बाएं</string>
+    <string name="zzz_face_failed_rotated_right">चेहरें का कोण: दाएं</string>
+    <string name="zzz_face_failed_rotated_top">चेहरें का कोण: ऊपर</string>
+    <string name="zzz_face_failed_scale_too_large">फ़ोन को आगे पकड़ो</string>
+    <string name="zzz_face_failed_scale_too_small">फ़ोन को निकट पकड़ो</string>
+    <string name="zzz_face_failed_supplier_failed">आंतरिक त्रुटि - आपूर्तिकर्ता की समस्या</string>
+    <string name="zzz_face_failed_warning">जांच रहा है</string>
+    <string name="zzz_face_liveness_failed">चेहरा नहीं मिला</string>
+    <string name="zzz_face_liveness_warning">कायम रहने वाले हमले</string>
+    <string name="zzz_face_name_template">चेहरा %d</string>
+    <string name="zzz_face_not_sample_person_error">एकसमान चेहरा नहीं है, कृपया फिर से प्रयास करें</string>
+    <string name="zzz_face_savefeature_progress">प्रगति: %1$d%%</string>
+    <string name="zzz_face_savefeature_scuccess">अनलॉक करने के लिए चेहरा सीधे स्क्रीन कें सामनें लाएं</string>
+    <string name="zzz_face_savefeature_update">कृपया फ्रेम के भीतर पूरे चेहरे को रखें</string>
+</resources>

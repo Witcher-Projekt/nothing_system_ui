@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zzz_camer_close">ကင္မရာပိတ္ထားသည္</string>
+    <string name="zzz_camer_perview_nodata">ကင္မရာ အႀကိဳျမင္ကြင္းတြင္ ေဒတာ မရွိပါ</string>
+    <string name="zzz_camer_perview_timeout">မ်က္ႏွာစာရင္းသြင္းျခင္း အခ်ိန္ျပည့္သြားသည္။ ထပ္မံႀကိဳးစားပါ</string>
+    <string name="zzz_camer_start_error">ကင္မရာ စဖြင့္၍ မရပါ</string>
+    <string name="zzz_camer_start_scuccess">ကင္မရာ ေအာင္ျမင္စြာစတင္ခဲ့သည္</string>
+    <string name="zzz_camer_start_starting">ကင္မရာ စဖြင့္ေနသည္</string>
+    <string name="zzz_face_compare_liveness_frozen">မ်က္ႏွာျဖင့္ ေလာ့ခ္ေျဖျခင္းကို ပိတ္ထားသည္။ ေလာ့ခ္ေျဖရန္ စကားဝွက္ႏွင့္ လက္ေဗြရာကို အသံုးျပဳပါ</string>
+    <string name="zzz_face_compare_scuccess">ေအာင္ျမင္စြာ အတည္ျပဳၿပီးၿပီ</string>
+    <string name="zzz_face_failed_attr_cover_mouth">သင့္ပါးစပ္ကို မအုပ္ထားပါႏွင့္</string>
+    <string name="zzz_face_failed_attr_eye_close">သင့္မ်က္လံုးကို မမွိတ္ပါႏွင့္</string>
+    <string name="zzz_face_failed_attr_eye_occlusion">မ်က္လံုးမ်ားကို ကြယ္ထားသည္</string>
+    <string name="zzz_face_failed_attr_face_occlusion">မ်က္ႏွာကို ဖံုးထားသည္</string>
+    <string name="zzz_face_failed_attr_not_in_roi">မ်က္ႏွာသည္ သတ္မွတ္ထားေသာ အကြက္တြင္ မရွိပါ</string>
+    <string name="zzz_face_failed_bad_light">အလင္းေတာက္ပမႈ အၾကံျပဳထားသည္</string>
+    <string name="zzz_face_failed_blur">အလြန္လ်င္ျမန္စြာ မလႈပ္ရွားပါႏွင့္</string>
+    <string name="zzz_face_failed_camera_attr_blur">႐ုပ္ပံု မႈန္ဝါးလြန္းေနသည္</string>
+    <string name="zzz_face_failed_camera_steady">မလႈပ္ရွားပါႏွင့္</string>
+    <string name="zzz_face_failed_darklight_warning">မွိန္ေဖ်ာ့ေဖ်ာ့အလင္းရွိ မ်က္ႏွာ</string>
+    <string name="zzz_face_failed_half_shadow">မွိန္ေဖ်ာ့ေဖ်ာ့အလင္းရွိ မ်က္ႏွာ</string>
+    <string name="zzz_face_failed_highlight_warning">အလြန္အမင္းေတာက္ပေသာအလင္းရွိ မ်က္ႏွာ</string>
+    <string name="zzz_face_failed_invalid_argument">အဝင္ဖုန္း ကန္႔သတ္ခ်က္အမွား</string>
+    <string name="zzz_face_failed_multi">မ်က္ႏွာ အမ်ိဳးမ်ိဳး</string>
+    <string name="zzz_face_failed_not_complete">မ်က္ႏွာ စကန္ဖတ္ျခင္း မၿပီးေျမာက္ပါ</string>
+    <string name="zzz_face_failed_not_found">မ်က္ႏွာ ရွာမေတြ႕ပါ</string>
+    <string name="zzz_face_failed_offset_bottom">အေပၚမွ အလယ္သို႔ ေရႊ႕ပါ</string>
+    <string name="zzz_face_failed_offset_left">ညာဘက္မွ အလယ္သို႔ ေရႊ႕ပါ</string>
+    <string name="zzz_face_failed_offset_right">ဘယ္ဘက္မွ အလယ္သို႔ ေရႊ႕ပါ</string>
+    <string name="zzz_face_failed_offset_top">ေအာက္မွ အလယ္သို႔ ေရႊ႕ပါ</string>
+    <string name="zzz_face_failed_quality">မ်က္ႏွာ အျပည့္မေတြ႕ပါ</string>
+    <string name="zzz_face_failed_rotated_down">မ်က္ႏွာေထာင့္ခ်ိဳး- ေအာက္</string>
+    <string name="zzz_face_failed_rotated_left">မ်က္ႏွာေထာင့္ခ်ိဳး- ဘယ္</string>
+    <string name="zzz_face_failed_rotated_right">မ်က္ႏွာေထာင့္ခ်ိဳး- ညာ</string>
+    <string name="zzz_face_failed_rotated_top">မ်က္ႏွာေထာင့္ခ်ိဳး- အေပၚ</string>
+    <string name="zzz_face_failed_scale_too_large">အေဝးမွ ဖုန္းကိုင္ျခင္း</string>
+    <string name="zzz_face_failed_scale_too_small">အနီးမွ ဖုန္းကိုင္ျခင္း</string>
+    <string name="zzz_face_failed_supplier_failed">စက္တြင္းအမွား - ေထာက္ပံ့သူ ျပႆနာ</string>
+    <string name="zzz_face_failed_warning">စစ္ေဆးေနသည္</string>
+    <string name="zzz_face_liveness_failed">မ်က္ႏွာ ရွာမေတြ႕ပါ</string>
+    <string name="zzz_face_liveness_warning">လႈပ္ရွား တိုက္ခိုက္ျခင္း</string>
+    <string name="zzz_face_name_template">မ်က္ႏွာ %d</string>
+    <string name="zzz_face_not_sample_person_error">မ်က္ႏွာ မတူပါ၊ ေနာက္တစ္ႀကိမ္ႀကိဳးစားၾကည့္ပါ</string>
+    <string name="zzz_face_savefeature_progress">တိုးတက္မႈအေျခအေန- %1$d%%</string>
+    <string name="zzz_face_savefeature_scuccess">ေလာ့ခ္ေျဖရန္ မ်က္ႏွာႏွင့္ စခရင္ကို တန္းတန္းထားပါ</string>
+    <string name="zzz_face_savefeature_update">မ်က္ႏွာတစ္ခုလံုးကို ေဘာင္အတြင္းဝင္ေအာင္ ထားပါ</string>
+</resources>

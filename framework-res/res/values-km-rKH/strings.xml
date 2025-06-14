@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zzz_camer_close">កាមេរ៉ាបានបិទ</string>
+    <string name="zzz_camer_perview_nodata">គ្មានទិន្នន័យនៅក្នុងការមើលជាមុនរបស់កាមេរ៉ាទេ</string>
+    <string name="zzz_camer_perview_timeout">ការចុះឈ្មោះមុខបានអស់ម៉ោង។ សូមព្យាយាម​ម្ដងទៀត</string>
+    <string name="zzz_camer_start_error">កាមេរ៉ាបានបរាជ័យក្នុងការចាប់ផ្តើម</string>
+    <string name="zzz_camer_start_scuccess">កាមេរ៉ាបានចាប់ផ្តើមដោយជោគជ័យ</string>
+    <string name="zzz_camer_start_starting">កំពុងចាប់ផ្តើមកាមេរ៉ា</string>
+    <string name="zzz_face_compare_liveness_frozen">ការដោះសោតាមទម្រង់មុខ​ត្រូវបានបិទ។ សូម​ប្រើ​ពាក្យសម្ងាត់​ ឬស្នាមក្រយៅដៃ​ដើម្បីដោះសោ</string>
+    <string name="zzz_face_compare_scuccess">បានស្គាល់ដោយជោគជ័យ</string>
+    <string name="zzz_face_failed_attr_cover_mouth">សូមកុំគ្របមាត់របស់អ្នក</string>
+    <string name="zzz_face_failed_attr_eye_close">សូមកុំបិទភ្នែករបស់អ្នក</string>
+    <string name="zzz_face_failed_attr_eye_occlusion">ភ្នែកត្រូវបានបាំង</string>
+    <string name="zzz_face_failed_attr_face_occlusion">ផ្ទៃមុខត្រូវបានគ្រប</string>
+    <string name="zzz_face_failed_attr_not_in_roi">មុខមិនស្ថិតនៅក្នុងប្រអប់ដែលបានបញ្ជាក់ទេ</string>
+    <string name="zzz_face_failed_bad_light">ពន្លឺភ្លឺត្រូវបានណែនាំ</string>
+    <string name="zzz_face_failed_blur">សូមកុំកម្រើកលឿនពេក</string>
+    <string name="zzz_face_failed_camera_attr_blur">រូបភាពព្រិលពេក</string>
+    <string name="zzz_face_failed_camera_steady">សូមកុំ​កម្រើក</string>
+    <string name="zzz_face_failed_darklight_warning">មុខនៅក្រោមពន្លឺស្រអាប់</string>
+    <string name="zzz_face_failed_half_shadow">មុខនៅក្រោមពន្លឺស្រអាប់</string>
+    <string name="zzz_face_failed_highlight_warning">មុខនៅក្រោមពន្លឺខ្លាំងហួស</string>
+    <string name="zzz_face_failed_invalid_argument">កំហុសប៉ារ៉ាម៉ែត្រហៅចូល</string>
+    <string name="zzz_face_failed_multi">មុខច្រើន</string>
+    <string name="zzz_face_failed_not_complete">មុខដែលបានស្កេន​គឺមិនពេញលេញ​</string>
+    <string name="zzz_face_failed_not_found">រកមិនឃើញមុខទេ</string>
+    <string name="zzz_face_failed_offset_bottom">ផ្លាស់ទីឡើងលើទៅកាន់កណ្តាល</string>
+    <string name="zzz_face_failed_offset_left">ផ្លាស់ទីទៅស្តាំទៅកាន់កណ្តាល</string>
+    <string name="zzz_face_failed_offset_right">ផ្លាស់ទីទៅឆ្វេងទៅកាន់កណ្តាល</string>
+    <string name="zzz_face_failed_offset_top">ផ្លាស់ទីចុះក្រោមទៅកាន់កណ្តាល</string>
+    <string name="zzz_face_failed_quality">មុខពេញមិនត្រូវបានរកឃើញ</string>
+    <string name="zzz_face_failed_rotated_down">មុំមុខ៖ ចុះក្រោម</string>
+    <string name="zzz_face_failed_rotated_left">មុំមុខ៖ ខាងឆ្វេង</string>
+    <string name="zzz_face_failed_rotated_right">មុំមុខ៖ ខាងស្ដាំ</string>
+    <string name="zzz_face_failed_rotated_top">មុំមុខ៖ ឡើងលើ</string>
+    <string name="zzz_face_failed_scale_too_large">កាន់ទូរស័ព្ទឲ្យបានឆ្ងាយជាងនេះ</string>
+    <string name="zzz_face_failed_scale_too_small">កាន់ទូរស័ព្ទឲ្យបានជិតជាងនេះ</string>
+    <string name="zzz_face_failed_supplier_failed">កំហុសខាងក្នុង - បញ្ហារបស់អ្នកផ្គត់ផ្គង់</string>
+    <string name="zzz_face_failed_warning">កំពុងពិនិត្យមើល</string>
+    <string name="zzz_face_liveness_failed">រកមិនឃើញមុខទេ</string>
+    <string name="zzz_face_liveness_warning">ការវាយប្រហារដែលរស់រវើក</string>
+    <string name="zzz_face_name_template">មុខ %d</string>
+    <string name="zzz_face_not_sample_person_error">មិនមែនមុខដដែល សូមព្យាយាមម្តងទៀត</string>
+    <string name="zzz_face_savefeature_progress">ដំណើរការ៖ %1$d%%</string>
+    <string name="zzz_face_savefeature_scuccess">បែរមុខឈមអេក្រង់ដោយផ្ទាល់ដើម្បីដោះសោ</string>
+    <string name="zzz_face_savefeature_update">សូមរក្សាមុខទាំងមូលនៅក្នុងស៊ុម</string>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_and_time" formatted="false">%H:%M:%S %-e %b %Y</string>
+    <string name="date_time">%2$s %1$s</string>
+    <string name="time_of_day" formatted="false">%H:%M:%S</string>
+    <string name="zzz_camer_close">Kamera mati</string>
+    <string name="zzz_camer_perview_nodata">Tidak ada data dalam pratinjau kamera</string>
+    <string name="zzz_camer_perview_timeout">Pendaftaran wajah kehabisan waktu. Coba lagi.</string>
+    <string name="zzz_camer_start_error">Kamera gagal dinyalakan</string>
+    <string name="zzz_camer_start_scuccess">Kamera berhasil dinyalakan</string>
+    <string name="zzz_camer_start_starting">Memulai kamera</string>
+    <string name="zzz_face_compare_liveness_frozen">Membuka kunci dengan wajah dinonaktifkan. Gunakan kata sandi atau sidik jari untuk membuka kunci.</string>
+    <string name="zzz_face_compare_scuccess">Berhasil dikenali</string>
+    <string name="zzz_face_failed_attr_cover_mouth">Jangan tutupi mulut Anda</string>
+    <string name="zzz_face_failed_attr_eye_close">Jangan pejamkan mata</string>
+    <string name="zzz_face_failed_attr_eye_occlusion">Mata tertutup</string>
+    <string name="zzz_face_failed_attr_face_occlusion">Wajah ditutupi</string>
+    <string name="zzz_face_failed_attr_not_in_roi">Wadah tidak dalam boks yang ditentukan</string>
+    <string name="zzz_face_failed_bad_light">Sebaiknya gunakan cahaya terang</string>
+    <string name="zzz_face_failed_blur">Jangan bergerak terlalu cepat</string>
+    <string name="zzz_face_failed_camera_attr_blur">Gambar terlalu buram</string>
+    <string name="zzz_face_failed_camera_steady">Jangan bergerak</string>
+    <string name="zzz_face_failed_darklight_warning">Wajah dalam cahaya redup</string>
+    <string name="zzz_face_failed_half_shadow">Wajah dalam cahaya redup</string>
+    <string name="zzz_face_failed_highlight_warning">Wajah dalam cahaya terang</string>
+    <string name="zzz_face_failed_invalid_argument">Kesalahan parameter masuk</string>
+    <string name="zzz_face_failed_multi">Beberapa wajah</string>
+    <string name="zzz_face_failed_not_complete">Pemindaian wajah tidak selesai</string>
+    <string name="zzz_face_failed_not_found">Wajah tidak terdeteksi</string>
+    <string name="zzz_face_failed_offset_bottom">Gerakkan ke atas ke tengah</string>
+    <string name="zzz_face_failed_offset_left">Gerakkan ke kanan ke tengah</string>
+    <string name="zzz_face_failed_offset_right">Gerakkan ke kiri ke tengah</string>
+    <string name="zzz_face_failed_offset_top">Gerakkan ke bawah ke tengah</string>
+    <string name="zzz_face_failed_quality">Wajah penuh tidak terdeteksi</string>
+    <string name="zzz_face_failed_rotated_down">Sudut wajah: bawah</string>
+    <string name="zzz_face_failed_rotated_left">Sudut wajah: kiri</string>
+    <string name="zzz_face_failed_rotated_right">Sudut wajah: kanan</string>
+    <string name="zzz_face_failed_rotated_top">Sudut wajah: atas</string>
+    <string name="zzz_face_failed_scale_too_large">Pegang telepon lebih jauh</string>
+    <string name="zzz_face_failed_scale_too_small">Pegang telepon lebih dekat</string>
+    <string name="zzz_face_failed_supplier_failed">Kesalahan internal - masalah pemasok</string>
+    <string name="zzz_face_failed_warning">Memeriksa</string>
+    <string name="zzz_face_liveness_failed">Wajah tidak terdeteksi</string>
+    <string name="zzz_face_liveness_warning">Serangan hidup</string>
+    <string name="zzz_face_name_template">Wajah %d</string>
+    <string name="zzz_face_not_sample_person_error">Bukan wajah yang sama, coba lagi</string>
+    <string name="zzz_face_savefeature_progress">Kemajuan: %1$d%%</string>
+    <string name="zzz_face_savefeature_scuccess">Hadapkan wajah langsung ke layar untuk membuka kunci</string>
+    <string name="zzz_face_savefeature_update">Pertahankan seluruh wajah di dalam bingkai</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zzz_camer_close">دوربین خاموش است</string>
+    <string name="zzz_camer_perview_nodata">بدون داده در پیش‌نمایش دوربین</string>
+    <string name="zzz_camer_perview_timeout">زمان ثبت چهره به پایان رسید. دوباره امتحان کنید</string>
+    <string name="zzz_camer_start_error">دوربین اجرا نشد</string>
+    <string name="zzz_camer_start_scuccess">دوربین با موفقیت شروع شد</string>
+    <string name="zzz_camer_start_starting">در حال شروع دوربین</string>
+    <string name="zzz_face_compare_liveness_frozen">باز کردن قفل به وسیله تشخیص چهره غیرفعال شد. لطفاً از رمزعبور یا اثر انگشت برای باز کردن قفل استفاده کنید</string>
+    <string name="zzz_face_compare_scuccess">با موفقیت تشخیص داده شد</string>
+    <string name="zzz_face_failed_attr_cover_mouth">لطفاً جلوی دهان خود را نگیرید</string>
+    <string name="zzz_face_failed_attr_eye_close">لطفاً چشم خود را نبندید</string>
+    <string name="zzz_face_failed_attr_eye_occlusion">چشم‌ها پوشانده شده است</string>
+    <string name="zzz_face_failed_attr_face_occlusion">چهره پوشیده شده است</string>
+    <string name="zzz_face_failed_attr_not_in_roi">صورت در کادر مشخص‌شده قرار ندارد</string>
+    <string name="zzz_face_failed_bad_light">نور بیشتر توصیه می‌شود</string>
+    <string name="zzz_face_failed_blur">لطفاً سریع حرکت نکنید</string>
+    <string name="zzz_face_failed_camera_attr_blur">عکس بسیار تار است</string>
+    <string name="zzz_face_failed_camera_steady">لطفاً حرکت نکنید</string>
+    <string name="zzz_face_failed_darklight_warning">چهره در نور کم است</string>
+    <string name="zzz_face_failed_half_shadow">چهره در نور کم است</string>
+    <string name="zzz_face_failed_highlight_warning">چهره در نور زیاد است</string>
+    <string name="zzz_face_failed_invalid_argument">خطای پارامتر ورودی</string>
+    <string name="zzz_face_failed_multi">چندین چهره</string>
+    <string name="zzz_face_failed_not_complete">اسکن چهره کامل نشد</string>
+    <string name="zzz_face_failed_not_found">چهره تشخیص داده نشد</string>
+    <string name="zzz_face_failed_offset_bottom">به سمت بالای مرکز حرکت دهید</string>
+    <string name="zzz_face_failed_offset_left">به سمت راست مرکز حرکت دهید</string>
+    <string name="zzz_face_failed_offset_right">به سمت چپ مرکز حرکت دهید</string>
+    <string name="zzz_face_failed_offset_top">به سمت پایین مرکز حرکت دهید</string>
+    <string name="zzz_face_failed_quality">چهره کامل تشخیص داده نشد</string>
+    <string name="zzz_face_failed_rotated_down">زاویه چهره: پایین</string>
+    <string name="zzz_face_failed_rotated_left">زاویه چهره: چپ</string>
+    <string name="zzz_face_failed_rotated_right">زاویه چهره: راست</string>
+    <string name="zzz_face_failed_rotated_top">زاویه چهره: بالا</string>
+    <string name="zzz_face_failed_scale_too_large">تلفن را دورتر بگیرید</string>
+    <string name="zzz_face_failed_scale_too_small">تلفن را نزدیک‌تر بگیرید</string>
+    <string name="zzz_face_failed_supplier_failed">خطای داخلی - مشکل ارائه‌دهنده</string>
+    <string name="zzz_face_failed_warning">در حال بررسی</string>
+    <string name="zzz_face_liveness_failed">چهره تشخیص داده نشد</string>
+    <string name="zzz_face_liveness_warning">حمله فعلی</string>
+    <string name="zzz_face_name_template">چهره%d</string>
+    <string name="zzz_face_not_sample_person_error">همان چهره نیست، لطفاً دوباره امتحان کنید</string>
+    <string name="zzz_face_savefeature_progress">پیشرفت: %1$d%%</string>
+    <string name="zzz_face_savefeature_scuccess">برای باز کردن قفل، تلفن را روبروی صورت خود بگیرید</string>
+    <string name="zzz_face_savefeature_update">لطفاً چهره کامل را داخل کادر قرار دهید</string>
+</resources>
